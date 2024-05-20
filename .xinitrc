@@ -1,0 +1,2 @@
+unclutter -grab &
+exec copyq

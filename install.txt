@@ -1,0 +1,29 @@
+### Installing all packages or kinda
+yay -Sy git lxappearance nemo zsh kitty tmux vim nvim picom pollybar nnn rofi btop copyq unclutter npm brave telegram-desktop
+### LazyVim
+git clone https://github.com/LazyVim/starter ~/.config/nvim $$ rm -rf ~/.config/nvim/.git
+### ZSH-theme-and-plugins
+sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
+git clone --depth=1 https://github.com/romkatv/powerlevel10k.git ${ZSH_CUSTOM:-$HOME/.oh-my-zsh/custom}/themes/powerlevel10k
++ install nerd fonts
+### Rofi config
+git clone --depth=1 https://github.com/adi1090x/rofi.git
+cd rofi && chmod +x setup.sh
+./setup.sh
+### nnn
+git clone https://github.com/jarun/nnn.git ~/code
+cd ~/code/nnn
+sudo make O_NERD=1
+sudo cp nnn /bin/
+### tmux config
+git clone https://github.com/tmux-plugins/tpm ~/.tmux/plugins/tpm
+### Nemo-default-File-manager
+xdg-mime default nemo.desktop inode/directory application/x-gnome-saved-search
+### telegram-tg
+yay -Sy telegram-tg
+### #Check where file controllers.py was installed:
+pacman -Ql telegram-tg | grep "controllers.py"
+#Check if line 489 contains what we need to change
+sed -n '489'p /path/to/controllers.py
+#Modify line 489
+sed -i '489s/.*/return chat["permissions"]["can_send_basic_messages"]/' /path/to/controllers.py
