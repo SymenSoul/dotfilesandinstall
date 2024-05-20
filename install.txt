@@ -1,13 +1,22 @@
 ### Installing all packages or kinda
-yay -Sy git lxappearance nemo zsh kitty tmux vim neovim picom pollybar nnn rofi btop copyq unclutter npm brave telegram-desktop
+yay -Sy git lxappearance nemo zsh kitty tmux vim neovim picom pollybar nnn rofi btop copyq unclutter npm brave telegram-desktop neofetch
+### Zsh default shell
+chsh -s /usr/bin/zsh
 ### Git config
 git config --global core.pager cat
 ### LazyVim
-git clone https://github.com/LazyVim/starter ~/.config/nvim $$ rm -rf ~/.config/nvim/.git
+git clone https://github.com/LazyVim/starter ~/.config/nvim && rm -rf ~/.config/nvim/.git
 ### ZSH-theme-and-plugins
+zsh-syntax-highlighting 
+zsh-autosuggestions 
+#fast-syntax-highlighting 
 sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
 git clone --depth=1 https://github.com/romkatv/powerlevel10k.git ${ZSH_CUSTOM:-$HOME/.oh-my-zsh/custom}/themes/powerlevel10k
-+ install nerd fonts
++ install nerd fonts (Hack, JetBrains)
+git clone https://github.com/z-shell/F-Sy-H.git \
+  ${ZSH_CUSTOM:-$HOME/.oh-my-zsh/custom}/plugins/F-Sy-H 
+sudo git clone https://github.com/zsh-users/zsh-autosuggestions ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/plugins/zsh-autosuggestions
+sudo git clone https://github.com/zsh-users/zsh-syntax-highlighting.git ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/plugins/zsh-syntax-highlighting
 ### Rofi config
 git clone --depth=1 https://github.com/adi1090x/rofi.git
 cd rofi && chmod +x setup.sh
