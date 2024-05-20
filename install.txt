@@ -1,5 +1,5 @@
 ### Installing all packages or kinda
-yay -Sy git lxappearance nemo zsh kitty tmux vim nvim picom pollybar nnn rofi btop copyq unclutter npm brave telegram-desktop
+yay -Sy git lxappearance nemo zsh kitty tmux vim neovim picom pollybar nnn rofi btop copyq unclutter npm brave telegram-desktop
 ### Git config
 git config --global core.pager cat
 ### LazyVim
