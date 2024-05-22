@@ -225,3 +225,7 @@ for_window [class="Bitwarden"] floating enable
 
 #Cursot hiding
 exec --no-startup-id unclutter -grab &
+
+# Allocate applications to workspaces
+for_window [class="Brave-browser"] move to workspace $ws2
+for_window [class="TelegramDesktop"] move to workspace $ws3
