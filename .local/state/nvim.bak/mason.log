@@ -1,0 +1,781 @@
+[INFO  Пт 17 мая 2024 15:43:03] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=stylua) {}
+[INFO  Пт 17 мая 2024 15:43:03] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=shfmt) {}
+[INFO  Пт 17 мая 2024 15:43:06] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:245: Installation succeeded for Package(name=shfmt)
+[INFO  Пт 17 мая 2024 15:43:06] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:245: Installation succeeded for Package(name=stylua)
+[INFO  Пт 17 мая 2024 15:43:41] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=lua-language-server) {}
+[INFO  Пт 17 мая 2024 15:43:43] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:245: Installation succeeded for Package(name=lua-language-server)
+[INFO  Пт 17 мая 2024 16:04:27] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=typescript-language-server) {}
+[INFO  Пт 17 мая 2024 16:04:27] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=json-lsp) {}
+[ERROR Пт 17 мая 2024 16:04:28] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=typescript-language-server) error=spawn: npm failed with exit code - and signal -. npm is not executable
+[ERROR Пт 17 мая 2024 16:04:28] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=json-lsp) error=spawn: npm failed with exit code - and signal -. npm is not executable
+[INFO  Пт 17 мая 2024 16:09:20] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=typescript-language-server) {}
+[INFO  Пт 17 мая 2024 16:09:20] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=json-lsp) {}
+[ERROR Пт 17 мая 2024 16:09:21] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=typescript-language-server) error=spawn: npm failed with exit code - and signal -. npm is not executable
+[ERROR Пт 17 мая 2024 16:09:21] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=json-lsp) error=spawn: npm failed with exit code - and signal -. npm is not executable
+[INFO  Пт 17 мая 2024 16:10:33] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=typescript-language-server) {}
+[INFO  Пт 17 мая 2024 16:10:33] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=json-lsp) {}
+[ERROR Пт 17 мая 2024 16:10:33] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=typescript-language-server) error=spawn: npm failed with exit code - and signal -. npm is not executable
+[ERROR Пт 17 мая 2024 16:10:33] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=json-lsp) error=spawn: npm failed with exit code - and signal -. npm is not executable
+[INFO  Пт 17 мая 2024 16:13:36] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=typescript-language-server) {}
+[INFO  Пт 17 мая 2024 16:13:36] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=json-lsp) {}
+[ERROR Пт 17 мая 2024 16:13:36] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=typescript-language-server) error=spawn: npm failed with exit code - and signal -. npm is not executable
+[ERROR Пт 17 мая 2024 16:13:36] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=json-lsp) error=spawn: npm failed with exit code - and signal -. npm is not executable
+[INFO  Пт 17 мая 2024 16:14:23] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=typescript-language-server) {}
+[INFO  Пт 17 мая 2024 16:14:23] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=json-lsp) {}
+[ERROR Пт 17 мая 2024 16:14:23] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=typescript-language-server) error=spawn: npm failed with exit code - and signal -. npm is not executable
+[ERROR Пт 17 мая 2024 16:14:23] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=json-lsp) error=spawn: npm failed with exit code - and signal -. npm is not executable
+[INFO  Пт 17 мая 2024 16:15:28] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=typescript-language-server) {}
+[INFO  Пт 17 мая 2024 16:15:28] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=json-lsp) {}
+[ERROR Пт 17 мая 2024 16:15:28] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=typescript-language-server) error=spawn: npm failed with exit code - and signal -. npm is not executable
+[ERROR Пт 17 мая 2024 16:15:28] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=json-lsp) error=spawn: npm failed with exit code - and signal -. npm is not executable
+[INFO  Пт 17 мая 2024 16:19:23] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=typescript-language-server) {}
+[INFO  Пт 17 мая 2024 16:19:23] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=json-lsp) {}
+[ERROR Пт 17 мая 2024 16:19:23] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=typescript-language-server) error=spawn: npm failed with exit code - and signal -. npm is not executable
+[ERROR Пт 17 мая 2024 16:19:23] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=json-lsp) error=spawn: npm failed with exit code - and signal -. npm is not executable
+[INFO  Пт 17 мая 2024 16:19:45] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=json-lsp) {}
+[INFO  Пт 17 мая 2024 16:19:45] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=typescript-language-server) {}
+[ERROR Пт 17 мая 2024 16:19:46] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=json-lsp) error=spawn: npm failed with exit code - and signal -. npm is not executable
+[ERROR Пт 17 мая 2024 16:19:46] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=typescript-language-server) error=spawn: npm failed with exit code - and signal -. npm is not executable
+[INFO  Пт 17 мая 2024 16:21:03] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=typescript-language-server) {}
+[INFO  Пт 17 мая 2024 16:21:03] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=json-lsp) {}
+[ERROR Пт 17 мая 2024 16:21:04] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=typescript-language-server) error=spawn: npm failed with exit code - and signal -. npm is not executable
+[ERROR Пт 17 мая 2024 16:21:04] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=json-lsp) error=spawn: npm failed with exit code - and signal -. npm is not executable
+[INFO  Пт 17 мая 2024 16:22:53] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=json-lsp) {}
+[INFO  Пт 17 мая 2024 16:22:53] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=typescript-language-server) {}
+[ERROR Пт 17 мая 2024 16:22:53] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=json-lsp) error=spawn: npm failed with exit code - and signal -. npm is not executable
+[ERROR Пт 17 мая 2024 16:22:53] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=typescript-language-server) error=spawn: npm failed with exit code - and signal -. npm is not executable
+[INFO  Пт 17 мая 2024 16:23:40] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=typescript-language-server) {}
+[INFO  Пт 17 мая 2024 16:23:40] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=json-lsp) {}
+[ERROR Пт 17 мая 2024 16:23:40] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=typescript-language-server) error=spawn: npm failed with exit code - and signal -. npm is not executable
+[ERROR Пт 17 мая 2024 16:23:40] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=json-lsp) error=spawn: npm failed with exit code - and signal -. npm is not executable
+[INFO  Пт 17 мая 2024 16:24:26] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=typescript-language-server) {}
+[INFO  Пт 17 мая 2024 16:24:26] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=json-lsp) {}
+[ERROR Пт 17 мая 2024 16:24:26] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=typescript-language-server) error=spawn: npm failed with exit code - and signal -. npm is not executable
+[ERROR Пт 17 мая 2024 16:24:26] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=json-lsp) error=spawn: npm failed with exit code - and signal -. npm is not executable
+[INFO  Пт 17 мая 2024 16:28:52] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=typescript-language-server) {}
+[INFO  Пт 17 мая 2024 16:28:52] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=json-lsp) {}
+[ERROR Пт 17 мая 2024 16:28:52] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=typescript-language-server) error=spawn: npm failed with exit code - and signal -. npm is not executable
+[ERROR Пт 17 мая 2024 16:28:52] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=json-lsp) error=spawn: npm failed with exit code - and signal -. npm is not executable
+[INFO  Пт 17 мая 2024 16:32:32] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=json-lsp) {}
+[INFO  Пт 17 мая 2024 16:32:32] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=typescript-language-server) {}
+[ERROR Пт 17 мая 2024 16:32:32] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=json-lsp) error=spawn: npm failed with exit code - and signal -. npm is not executable
+[ERROR Пт 17 мая 2024 16:32:32] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=typescript-language-server) error=spawn: npm failed with exit code - and signal -. npm is not executable
+[INFO  Пт 17 мая 2024 16:33:09] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=json-lsp) {}
+[INFO  Пт 17 мая 2024 16:33:09] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=typescript-language-server) {}
+[ERROR Пт 17 мая 2024 16:33:09] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=json-lsp) error=spawn: npm failed with exit code - and signal -. npm is not executable
+[ERROR Пт 17 мая 2024 16:33:09] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=typescript-language-server) error=spawn: npm failed with exit code - and signal -. npm is not executable
+[INFO  Пт 17 мая 2024 16:34:16] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=typescript-language-server) {}
+[INFO  Пт 17 мая 2024 16:34:16] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=json-lsp) {}
+[ERROR Пт 17 мая 2024 16:34:16] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=typescript-language-server) error=spawn: npm failed with exit code - and signal -. npm is not executable
+[ERROR Пт 17 мая 2024 16:34:16] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=json-lsp) error=spawn: npm failed with exit code - and signal -. npm is not executable
+[INFO  Пт 17 мая 2024 16:34:41] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=typescript-language-server) {}
+[INFO  Пт 17 мая 2024 16:34:41] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=json-lsp) {}
+[ERROR Пт 17 мая 2024 16:34:41] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=typescript-language-server) error=spawn: npm failed with exit code - and signal -. npm is not executable
+[ERROR Пт 17 мая 2024 16:34:41] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=json-lsp) error=spawn: npm failed with exit code - and signal -. npm is not executable
+[INFO  Пт 17 мая 2024 16:35:17] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=json-lsp) {}
+[INFO  Пт 17 мая 2024 16:35:17] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=typescript-language-server) {}
+[ERROR Пт 17 мая 2024 16:35:18] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=json-lsp) error=spawn: npm failed with exit code - and signal -. npm is not executable
+[ERROR Пт 17 мая 2024 16:35:18] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=typescript-language-server) error=spawn: npm failed with exit code - and signal -. npm is not executable
+[INFO  Пт 17 мая 2024 16:40:09] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=json-lsp) {}
+[INFO  Пт 17 мая 2024 16:40:09] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=typescript-language-server) {}
+[ERROR Пт 17 мая 2024 16:40:09] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=json-lsp) error=spawn: npm failed with exit code - and signal -. npm is not executable
+[ERROR Пт 17 мая 2024 16:40:09] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=typescript-language-server) error=spawn: npm failed with exit code - and signal -. npm is not executable
+[INFO  Пт 17 мая 2024 16:40:41] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=typescript-language-server) {}
+[INFO  Пт 17 мая 2024 16:40:41] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=json-lsp) {}
+[ERROR Пт 17 мая 2024 16:40:41] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=typescript-language-server) error=spawn: npm failed with exit code - and signal -. npm is not executable
+[ERROR Пт 17 мая 2024 16:40:41] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=json-lsp) error=spawn: npm failed with exit code - and signal -. npm is not executable
+[INFO  Пт 17 мая 2024 16:41:14] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=typescript-language-server) {}
+[INFO  Пт 17 мая 2024 16:41:14] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=json-lsp) {}
+[ERROR Пт 17 мая 2024 16:41:14] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=typescript-language-server) error=spawn: npm failed with exit code - and signal -. npm is not executable
+[ERROR Пт 17 мая 2024 16:41:14] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=json-lsp) error=spawn: npm failed with exit code - and signal -. npm is not executable
+[INFO  Пт 17 мая 2024 16:41:33] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=typescript-language-server) {}
+[INFO  Пт 17 мая 2024 16:41:33] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=json-lsp) {}
+[ERROR Пт 17 мая 2024 16:41:33] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=typescript-language-server) error=spawn: npm failed with exit code - and signal -. npm is not executable
+[ERROR Пт 17 мая 2024 16:41:33] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=json-lsp) error=spawn: npm failed with exit code - and signal -. npm is not executable
+[INFO  Пт 17 мая 2024 16:42:36] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=typescript-language-server) {}
+[INFO  Пт 17 мая 2024 16:42:36] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=json-lsp) {}
+[ERROR Пт 17 мая 2024 16:42:36] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=typescript-language-server) error=spawn: npm failed with exit code - and signal -. npm is not executable
+[ERROR Пт 17 мая 2024 16:42:36] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=json-lsp) error=spawn: npm failed with exit code - and signal -. npm is not executable
+[INFO  Пт 17 мая 2024 16:46:20] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=typescript-language-server) {}
+[INFO  Пт 17 мая 2024 16:46:20] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=json-lsp) {}
+[ERROR Пт 17 мая 2024 16:46:20] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=typescript-language-server) error=spawn: npm failed with exit code - and signal -. npm is not executable
+[ERROR Пт 17 мая 2024 16:46:20] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=json-lsp) error=spawn: npm failed with exit code - and signal -. npm is not executable
+[INFO  Пт 17 мая 2024 16:47:53] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=typescript-language-server) {}
+[INFO  Пт 17 мая 2024 16:47:53] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=json-lsp) {}
+[ERROR Пт 17 мая 2024 16:47:53] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=typescript-language-server) error=spawn: npm failed with exit code - and signal -. npm is not executable
+[ERROR Пт 17 мая 2024 16:47:53] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=json-lsp) error=spawn: npm failed with exit code - and signal -. npm is not executable
+[INFO  Пт 17 мая 2024 16:48:49] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=typescript-language-server) {}
+[INFO  Пт 17 мая 2024 16:48:49] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=json-lsp) {}
+[ERROR Пт 17 мая 2024 16:48:50] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=typescript-language-server) error=spawn: npm failed with exit code - and signal -. npm is not executable
+[ERROR Пт 17 мая 2024 16:48:50] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=json-lsp) error=spawn: npm failed with exit code - and signal -. npm is not executable
+[INFO  Пт 17 мая 2024 16:50:08] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=typescript-language-server) {}
+[INFO  Пт 17 мая 2024 16:50:08] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=json-lsp) {}
+[ERROR Пт 17 мая 2024 16:50:08] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=typescript-language-server) error=spawn: npm failed with exit code - and signal -. npm is not executable
+[ERROR Пт 17 мая 2024 16:50:08] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=json-lsp) error=spawn: npm failed with exit code - and signal -. npm is not executable
+[INFO  Пт 17 мая 2024 16:50:33] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=json-lsp) {}
+[INFO  Пт 17 мая 2024 16:50:33] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=typescript-language-server) {}
+[ERROR Пт 17 мая 2024 16:50:34] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=json-lsp) error=spawn: npm failed with exit code - and signal -. npm is not executable
+[ERROR Пт 17 мая 2024 16:50:34] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=typescript-language-server) error=spawn: npm failed with exit code - and signal -. npm is not executable
+[INFO  Пт 17 мая 2024 16:51:48] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=json-lsp) {}
+[INFO  Пт 17 мая 2024 16:51:48] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=typescript-language-server) {}
+[ERROR Пт 17 мая 2024 16:51:48] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=json-lsp) error=spawn: npm failed with exit code - and signal -. npm is not executable
+[ERROR Пт 17 мая 2024 16:51:48] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=typescript-language-server) error=spawn: npm failed with exit code - and signal -. npm is not executable
+[INFO  Пт 17 мая 2024 16:52:22] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=typescript-language-server) {}
+[INFO  Пт 17 мая 2024 16:52:22] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=json-lsp) {}
+[ERROR Пт 17 мая 2024 16:52:22] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=typescript-language-server) error=spawn: npm failed with exit code - and signal -. npm is not executable
+[ERROR Пт 17 мая 2024 16:52:22] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=json-lsp) error=spawn: npm failed with exit code - and signal -. npm is not executable
+[INFO  Пт 17 мая 2024 16:53:08] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=typescript-language-server) {}
+[INFO  Пт 17 мая 2024 16:53:08] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=json-lsp) {}
+[ERROR Пт 17 мая 2024 16:53:08] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=typescript-language-server) error=spawn: npm failed with exit code - and signal -. npm is not executable
+[ERROR Пт 17 мая 2024 16:53:08] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=json-lsp) error=spawn: npm failed with exit code - and signal -. npm is not executable
+[INFO  Пт 17 мая 2024 16:55:02] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=json-lsp) {}
+[INFO  Пт 17 мая 2024 16:55:02] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=typescript-language-server) {}
+[ERROR Пт 17 мая 2024 16:55:02] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=json-lsp) error=spawn: npm failed with exit code - and signal -. npm is not executable
+[ERROR Пт 17 мая 2024 16:55:02] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=typescript-language-server) error=spawn: npm failed with exit code - and signal -. npm is not executable
+[INFO  Пт 17 мая 2024 16:56:17] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=typescript-language-server) {}
+[INFO  Пт 17 мая 2024 16:56:17] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=json-lsp) {}
+[ERROR Пт 17 мая 2024 16:56:17] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=typescript-language-server) error=spawn: npm failed with exit code - and signal -. npm is not executable
+[ERROR Пт 17 мая 2024 16:56:17] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=json-lsp) error=spawn: npm failed with exit code - and signal -. npm is not executable
+[INFO  Пт 17 мая 2024 16:57:12] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=json-lsp) {}
+[INFO  Пт 17 мая 2024 16:57:12] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=typescript-language-server) {}
+[ERROR Пт 17 мая 2024 16:57:12] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=json-lsp) error=spawn: npm failed with exit code - and signal -. npm is not executable
+[ERROR Пт 17 мая 2024 16:57:12] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=typescript-language-server) error=spawn: npm failed with exit code - and signal -. npm is not executable
+[INFO  Пт 17 мая 2024 16:58:03] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=json-lsp) {}
+[INFO  Пт 17 мая 2024 16:58:03] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=typescript-language-server) {}
+[ERROR Пт 17 мая 2024 16:58:03] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=json-lsp) error=spawn: npm failed with exit code - and signal -. npm is not executable
+[ERROR Пт 17 мая 2024 16:58:03] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=typescript-language-server) error=spawn: npm failed with exit code - and signal -. npm is not executable
+[INFO  Пт 17 мая 2024 16:58:16] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=typescript-language-server) {}
+[INFO  Пт 17 мая 2024 16:58:16] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=json-lsp) {}
+[ERROR Пт 17 мая 2024 16:58:16] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=typescript-language-server) error=spawn: npm failed with exit code - and signal -. npm is not executable
+[ERROR Пт 17 мая 2024 16:58:16] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=json-lsp) error=spawn: npm failed with exit code - and signal -. npm is not executable
+[INFO  Пт 17 мая 2024 16:59:32] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=typescript-language-server) {}
+[INFO  Пт 17 мая 2024 16:59:32] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=json-lsp) {}
+[ERROR Пт 17 мая 2024 16:59:32] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=typescript-language-server) error=spawn: npm failed with exit code - and signal -. npm is not executable
+[ERROR Пт 17 мая 2024 16:59:32] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=json-lsp) error=spawn: npm failed with exit code - and signal -. npm is not executable
+[INFO  Пт 17 мая 2024 17:01:52] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=json-lsp) {}
+[INFO  Пт 17 мая 2024 17:01:52] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=typescript-language-server) {}
+[ERROR Пт 17 мая 2024 17:01:52] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=json-lsp) error=spawn: npm failed with exit code - and signal -. npm is not executable
+[ERROR Пт 17 мая 2024 17:01:52] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=typescript-language-server) error=spawn: npm failed with exit code - and signal -. npm is not executable
+[INFO  Пт 17 мая 2024 17:03:06] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=typescript-language-server) {}
+[INFO  Пт 17 мая 2024 17:03:06] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=json-lsp) {}
+[ERROR Пт 17 мая 2024 17:03:07] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=typescript-language-server) error=spawn: npm failed with exit code - and signal -. npm is not executable
+[ERROR Пт 17 мая 2024 17:03:07] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=json-lsp) error=spawn: npm failed with exit code - and signal -. npm is not executable
+[INFO  Пт 17 мая 2024 17:16:47] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=typescript-language-server) {}
+[INFO  Пт 17 мая 2024 17:16:47] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=json-lsp) {}
+[ERROR Пт 17 мая 2024 17:16:47] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=typescript-language-server) error=spawn: npm failed with exit code - and signal -. npm is not executable
+[ERROR Пт 17 мая 2024 17:16:47] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=json-lsp) error=spawn: npm failed with exit code - and signal -. npm is not executable
+[INFO  Пт 17 мая 2024 17:17:57] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=json-lsp) {}
+[INFO  Пт 17 мая 2024 17:17:57] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=typescript-language-server) {}
+[ERROR Пт 17 мая 2024 17:17:57] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=json-lsp) error=spawn: npm failed with exit code - and signal -. npm is not executable
+[ERROR Пт 17 мая 2024 17:17:57] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=typescript-language-server) error=spawn: npm failed with exit code - and signal -. npm is not executable
+[INFO  Пт 17 мая 2024 17:18:10] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=typescript-language-server) {}
+[INFO  Пт 17 мая 2024 17:18:10] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=json-lsp) {}
+[ERROR Пт 17 мая 2024 17:18:10] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=typescript-language-server) error=spawn: npm failed with exit code - and signal -. npm is not executable
+[ERROR Пт 17 мая 2024 17:18:10] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=json-lsp) error=spawn: npm failed with exit code - and signal -. npm is not executable
+[INFO  Пт 17 мая 2024 17:21:47] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=typescript-language-server) {}
+[INFO  Пт 17 мая 2024 17:21:47] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=json-lsp) {}
+[ERROR Пт 17 мая 2024 17:21:47] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=typescript-language-server) error=spawn: npm failed with exit code - and signal -. npm is not executable
+[ERROR Пт 17 мая 2024 17:21:47] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=json-lsp) error=spawn: npm failed with exit code - and signal -. npm is not executable
+[INFO  Пт 17 мая 2024 17:22:29] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=typescript-language-server) {}
+[INFO  Пт 17 мая 2024 17:22:29] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=json-lsp) {}
+[ERROR Пт 17 мая 2024 17:22:29] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=typescript-language-server) error=spawn: npm failed with exit code - and signal -. npm is not executable
+[ERROR Пт 17 мая 2024 17:22:29] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=json-lsp) error=spawn: npm failed with exit code - and signal -. npm is not executable
+[INFO  Пт 17 мая 2024 17:27:05] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=json-lsp) {}
+[INFO  Пт 17 мая 2024 17:27:05] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=typescript-language-server) {}
+[ERROR Пт 17 мая 2024 17:27:05] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=json-lsp) error=spawn: npm failed with exit code - and signal -. npm is not executable
+[ERROR Пт 17 мая 2024 17:27:05] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=typescript-language-server) error=spawn: npm failed with exit code - and signal -. npm is not executable
+[INFO  Пт 17 мая 2024 17:28:01] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=typescript-language-server) {}
+[INFO  Пт 17 мая 2024 17:28:01] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=json-lsp) {}
+[ERROR Пт 17 мая 2024 17:28:02] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=typescript-language-server) error=spawn: npm failed with exit code - and signal -. npm is not executable
+[ERROR Пт 17 мая 2024 17:28:02] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=json-lsp) error=spawn: npm failed with exit code - and signal -. npm is not executable
+[INFO  Пт 17 мая 2024 17:44:01] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=json-lsp) {}
+[INFO  Пт 17 мая 2024 17:44:01] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=typescript-language-server) {}
+[ERROR Пт 17 мая 2024 17:44:01] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=json-lsp) error=spawn: npm failed with exit code - and signal -. npm is not executable
+[ERROR Пт 17 мая 2024 17:44:01] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=typescript-language-server) error=spawn: npm failed with exit code - and signal -. npm is not executable
+[INFO  Пт 17 мая 2024 17:44:45] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=json-lsp) {}
+[INFO  Пт 17 мая 2024 17:44:45] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=typescript-language-server) {}
+[ERROR Пт 17 мая 2024 17:44:45] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=json-lsp) error=spawn: npm failed with exit code - and signal -. npm is not executable
+[ERROR Пт 17 мая 2024 17:44:45] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=typescript-language-server) error=spawn: npm failed with exit code - and signal -. npm is not executable
+[INFO  Пт 17 мая 2024 17:45:32] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=typescript-language-server) {}
+[INFO  Пт 17 мая 2024 17:45:32] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=json-lsp) {}
+[ERROR Пт 17 мая 2024 17:45:32] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=typescript-language-server) error=spawn: npm failed with exit code - and signal -. npm is not executable
+[ERROR Пт 17 мая 2024 17:45:32] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=json-lsp) error=spawn: npm failed with exit code - and signal -. npm is not executable
+[INFO  Пт 17 мая 2024 17:46:46] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=json-lsp) {}
+[INFO  Пт 17 мая 2024 17:46:46] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=typescript-language-server) {}
+[ERROR Пт 17 мая 2024 17:46:46] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=json-lsp) error=spawn: npm failed with exit code - and signal -. npm is not executable
+[ERROR Пт 17 мая 2024 17:46:46] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=typescript-language-server) error=spawn: npm failed with exit code - and signal -. npm is not executable
+[INFO  Пт 17 мая 2024 17:50:27] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=json-lsp) {}
+[INFO  Пт 17 мая 2024 17:50:27] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=typescript-language-server) {}
+[ERROR Пт 17 мая 2024 17:50:27] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=json-lsp) error=spawn: npm failed with exit code - and signal -. npm is not executable
+[ERROR Пт 17 мая 2024 17:50:27] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=typescript-language-server) error=spawn: npm failed with exit code - and signal -. npm is not executable
+[INFO  Пт 17 мая 2024 17:54:27] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=json-lsp) {}
+[INFO  Пт 17 мая 2024 17:54:27] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=typescript-language-server) {}
+[ERROR Пт 17 мая 2024 17:54:27] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=json-lsp) error=spawn: npm failed with exit code - and signal -. npm is not executable
+[ERROR Пт 17 мая 2024 17:54:27] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=typescript-language-server) error=spawn: npm failed with exit code - and signal -. npm is not executable
+[INFO  Пт 17 мая 2024 17:54:55] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=json-lsp) {}
+[INFO  Пт 17 мая 2024 17:54:55] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=typescript-language-server) {}
+[ERROR Пт 17 мая 2024 17:54:55] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=json-lsp) error=spawn: npm failed with exit code - and signal -. npm is not executable
+[ERROR Пт 17 мая 2024 17:54:55] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=typescript-language-server) error=spawn: npm failed with exit code - and signal -. npm is not executable
+[INFO  Пт 17 мая 2024 17:56:30] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=typescript-language-server) {}
+[INFO  Пт 17 мая 2024 17:56:30] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=json-lsp) {}
+[ERROR Пт 17 мая 2024 17:56:30] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=typescript-language-server) error=spawn: npm failed with exit code - and signal -. npm is not executable
+[ERROR Пт 17 мая 2024 17:56:30] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=json-lsp) error=spawn: npm failed with exit code - and signal -. npm is not executable
+[INFO  Пт 17 мая 2024 17:58:55] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=typescript-language-server) {}
+[INFO  Пт 17 мая 2024 17:58:55] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=json-lsp) {}
+[ERROR Пт 17 мая 2024 17:58:55] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=typescript-language-server) error=spawn: npm failed with exit code - and signal -. npm is not executable
+[ERROR Пт 17 мая 2024 17:58:55] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=json-lsp) error=spawn: npm failed with exit code - and signal -. npm is not executable
+[INFO  Пт 17 мая 2024 18:02:11] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=typescript-language-server) {}
+[INFO  Пт 17 мая 2024 18:02:11] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=json-lsp) {}
+[ERROR Пт 17 мая 2024 18:02:11] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=typescript-language-server) error=spawn: npm failed with exit code - and signal -. npm is not executable
+[ERROR Пт 17 мая 2024 18:02:11] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=json-lsp) error=spawn: npm failed with exit code - and signal -. npm is not executable
+[INFO  Пт 17 мая 2024 18:03:37] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=typescript-language-server) {}
+[INFO  Пт 17 мая 2024 18:03:37] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=json-lsp) {}
+[ERROR Пт 17 мая 2024 18:03:40] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=typescript-language-server) error=spawn: npm failed with exit code - and signal -. npm is not executable
+[ERROR Пт 17 мая 2024 18:03:40] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=json-lsp) error=spawn: npm failed with exit code - and signal -. npm is not executable
+[INFO  Пт 17 мая 2024 18:05:16] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=json-lsp) {}
+[INFO  Пт 17 мая 2024 18:05:16] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=typescript-language-server) {}
+[ERROR Пт 17 мая 2024 18:05:16] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=json-lsp) error=spawn: npm failed with exit code - and signal -. npm is not executable
+[ERROR Пт 17 мая 2024 18:05:16] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=typescript-language-server) error=spawn: npm failed with exit code - and signal -. npm is not executable
+[INFO  Пт 17 мая 2024 18:07:25] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=typescript-language-server) {}
+[INFO  Пт 17 мая 2024 18:07:25] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=json-lsp) {}
+[ERROR Пт 17 мая 2024 18:07:25] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=typescript-language-server) error=spawn: npm failed with exit code - and signal -. npm is not executable
+[ERROR Пт 17 мая 2024 18:07:25] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=json-lsp) error=spawn: npm failed with exit code - and signal -. npm is not executable
+[INFO  Пт 17 мая 2024 18:08:19] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=json-lsp) {}
+[INFO  Пт 17 мая 2024 18:08:19] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=typescript-language-server) {}
+[ERROR Пт 17 мая 2024 18:08:20] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=json-lsp) error=spawn: npm failed with exit code - and signal -. npm is not executable
+[ERROR Пт 17 мая 2024 18:08:20] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=typescript-language-server) error=spawn: npm failed with exit code - and signal -. npm is not executable
+[INFO  Пт 17 мая 2024 18:10:00] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=typescript-language-server) {}
+[INFO  Пт 17 мая 2024 18:10:00] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=json-lsp) {}
+[ERROR Пт 17 мая 2024 18:10:00] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=typescript-language-server) error=spawn: npm failed with exit code - and signal -. npm is not executable
+[ERROR Пт 17 мая 2024 18:10:00] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=json-lsp) error=spawn: npm failed with exit code - and signal -. npm is not executable
+[INFO  Пт 17 мая 2024 18:13:41] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=typescript-language-server) {}
+[INFO  Пт 17 мая 2024 18:13:41] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=json-lsp) {}
+[ERROR Пт 17 мая 2024 18:13:41] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=typescript-language-server) error=spawn: npm failed with exit code - and signal -. npm is not executable
+[ERROR Пт 17 мая 2024 18:13:41] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=json-lsp) error=spawn: npm failed with exit code - and signal -. npm is not executable
+[INFO  Пт 17 мая 2024 18:16:28] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=json-lsp) {}
+[INFO  Пт 17 мая 2024 18:16:28] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=typescript-language-server) {}
+[ERROR Пт 17 мая 2024 18:16:29] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=json-lsp) error=spawn: npm failed with exit code - and signal -. npm is not executable
+[ERROR Пт 17 мая 2024 18:16:29] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=typescript-language-server) error=spawn: npm failed with exit code - and signal -. npm is not executable
+[INFO  Пт 17 мая 2024 18:18:13] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=typescript-language-server) {}
+[INFO  Пт 17 мая 2024 18:18:13] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=json-lsp) {}
+[ERROR Пт 17 мая 2024 18:18:13] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=typescript-language-server) error=spawn: npm failed with exit code - and signal -. npm is not executable
+[ERROR Пт 17 мая 2024 18:18:13] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=json-lsp) error=spawn: npm failed with exit code - and signal -. npm is not executable
+[INFO  Пт 17 мая 2024 18:23:20] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=typescript-language-server) {}
+[INFO  Пт 17 мая 2024 18:23:20] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=json-lsp) {}
+[ERROR Пт 17 мая 2024 18:23:24] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=typescript-language-server) error=spawn: npm failed with exit code - and signal -. npm is not executable
+[ERROR Пт 17 мая 2024 18:23:24] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=json-lsp) error=spawn: npm failed with exit code - and signal -. npm is not executable
+[INFO  Пт 17 мая 2024 18:28:41] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=typescript-language-server) {}
+[INFO  Пт 17 мая 2024 18:28:41] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=json-lsp) {}
+[ERROR Пт 17 мая 2024 18:28:41] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=typescript-language-server) error=spawn: npm failed with exit code - and signal -. npm is not executable
+[ERROR Пт 17 мая 2024 18:28:41] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=json-lsp) error=spawn: npm failed with exit code - and signal -. npm is not executable
+[INFO  Пт 17 мая 2024 18:44:36] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=typescript-language-server) {}
+[INFO  Пт 17 мая 2024 18:44:36] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=json-lsp) {}
+[ERROR Пт 17 мая 2024 18:44:36] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=typescript-language-server) error=spawn: npm failed with exit code - and signal -. npm is not executable
+[ERROR Пт 17 мая 2024 18:44:36] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=json-lsp) error=spawn: npm failed with exit code - and signal -. npm is not executable
+[INFO  Пт 17 мая 2024 18:45:24] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=json-lsp) {}
+[INFO  Пт 17 мая 2024 18:45:24] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=typescript-language-server) {}
+[ERROR Пт 17 мая 2024 18:45:24] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=json-lsp) error=spawn: npm failed with exit code - and signal -. npm is not executable
+[ERROR Пт 17 мая 2024 18:45:24] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=typescript-language-server) error=spawn: npm failed with exit code - and signal -. npm is not executable
+[INFO  Пт 17 мая 2024 18:48:55] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=json-lsp) {}
+[INFO  Пт 17 мая 2024 18:48:55] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=typescript-language-server) {}
+[ERROR Пт 17 мая 2024 18:48:55] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=json-lsp) error=spawn: npm failed with exit code - and signal -. npm is not executable
+[ERROR Пт 17 мая 2024 18:48:55] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=typescript-language-server) error=spawn: npm failed with exit code - and signal -. npm is not executable
+[INFO  Пт 17 мая 2024 18:54:26] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=typescript-language-server) {}
+[INFO  Пт 17 мая 2024 18:54:26] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=json-lsp) {}
+[ERROR Пт 17 мая 2024 18:54:26] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=typescript-language-server) error=spawn: npm failed with exit code - and signal -. npm is not executable
+[ERROR Пт 17 мая 2024 18:54:26] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=json-lsp) error=spawn: npm failed with exit code - and signal -. npm is not executable
+[INFO  Пт 17 мая 2024 19:00:08] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=typescript-language-server) {}
+[INFO  Пт 17 мая 2024 19:00:08] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=json-lsp) {}
+[ERROR Пт 17 мая 2024 19:00:08] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=typescript-language-server) error=spawn: npm failed with exit code - and signal -. npm is not executable
+[ERROR Пт 17 мая 2024 19:00:08] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=json-lsp) error=spawn: npm failed with exit code - and signal -. npm is not executable
+[INFO  Пт 17 мая 2024 19:47:47] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=json-lsp) {}
+[INFO  Пт 17 мая 2024 19:47:47] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=typescript-language-server) {}
+[ERROR Пт 17 мая 2024 19:47:47] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=json-lsp) error=spawn: npm failed with exit code - and signal -. npm is not executable
+[ERROR Пт 17 мая 2024 19:47:47] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=typescript-language-server) error=spawn: npm failed with exit code - and signal -. npm is not executable
+[INFO  Пт 17 мая 2024 19:58:25] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=json-lsp) {}
+[INFO  Пт 17 мая 2024 19:58:25] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=typescript-language-server) {}
+[ERROR Пт 17 мая 2024 19:58:26] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=json-lsp) error=spawn: npm failed with exit code - and signal -. npm is not executable
+[ERROR Пт 17 мая 2024 19:58:26] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=typescript-language-server) error=spawn: npm failed with exit code - and signal -. npm is not executable
+[INFO  Пт 17 мая 2024 20:06:57] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=typescript-language-server) {}
+[INFO  Пт 17 мая 2024 20:06:57] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=json-lsp) {}
+[ERROR Пт 17 мая 2024 20:06:57] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=typescript-language-server) error=spawn: npm failed with exit code - and signal -. npm is not executable
+[ERROR Пт 17 мая 2024 20:06:57] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=json-lsp) error=spawn: npm failed with exit code - and signal -. npm is not executable
+[INFO  Пт 17 мая 2024 20:11:59] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=json-lsp) {}
+[INFO  Пт 17 мая 2024 20:11:59] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=typescript-language-server) {}
+[ERROR Пт 17 мая 2024 20:11:59] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=json-lsp) error=spawn: npm failed with exit code - and signal -. npm is not executable
+[ERROR Пт 17 мая 2024 20:11:59] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=typescript-language-server) error=spawn: npm failed with exit code - and signal -. npm is not executable
+[INFO  Пт 17 мая 2024 20:12:12] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=typescript-language-server) {}
+[INFO  Пт 17 мая 2024 20:12:12] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=json-lsp) {}
+[ERROR Пт 17 мая 2024 20:12:12] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=typescript-language-server) error=spawn: npm failed with exit code - and signal -. npm is not executable
+[ERROR Пт 17 мая 2024 20:12:12] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=json-lsp) error=spawn: npm failed with exit code - and signal -. npm is not executable
+[INFO  Пт 17 мая 2024 20:21:14] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=typescript-language-server) {}
+[INFO  Пт 17 мая 2024 20:21:14] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=json-lsp) {}
+[ERROR Пт 17 мая 2024 20:21:14] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=typescript-language-server) error=spawn: npm failed with exit code - and signal -. npm is not executable
+[ERROR Пт 17 мая 2024 20:21:14] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=json-lsp) error=spawn: npm failed with exit code - and signal -. npm is not executable
+[INFO  Пт 17 мая 2024 20:25:38] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=json-lsp) {}
+[INFO  Пт 17 мая 2024 20:25:38] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=typescript-language-server) {}
+[ERROR Пт 17 мая 2024 20:25:38] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=json-lsp) error=spawn: npm failed with exit code - and signal -. npm is not executable
+[ERROR Пт 17 мая 2024 20:25:38] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=typescript-language-server) error=spawn: npm failed with exit code - and signal -. npm is not executable
+[INFO  Пт 17 мая 2024 20:33:30] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=typescript-language-server) {}
+[INFO  Пт 17 мая 2024 20:33:30] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=json-lsp) {}
+[ERROR Пт 17 мая 2024 20:33:30] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=typescript-language-server) error=spawn: npm failed with exit code - and signal -. npm is not executable
+[ERROR Пт 17 мая 2024 20:33:30] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=json-lsp) error=spawn: npm failed with exit code - and signal -. npm is not executable
+[INFO  Пт 17 мая 2024 20:46:45] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=typescript-language-server) {}
+[INFO  Пт 17 мая 2024 20:46:45] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=json-lsp) {}
+[ERROR Пт 17 мая 2024 20:46:45] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=typescript-language-server) error=spawn: npm failed with exit code - and signal -. npm is not executable
+[ERROR Пт 17 мая 2024 20:46:45] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=json-lsp) error=spawn: npm failed with exit code - and signal -. npm is not executable
+[INFO  Пт 17 мая 2024 21:10:03] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=json-lsp) {}
+[INFO  Пт 17 мая 2024 21:10:03] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=typescript-language-server) {}
+[ERROR Пт 17 мая 2024 21:10:03] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=json-lsp) error=spawn: npm failed with exit code - and signal -. npm is not executable
+[ERROR Пт 17 мая 2024 21:10:03] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=typescript-language-server) error=spawn: npm failed with exit code - and signal -. npm is not executable
+[INFO  Пт 17 мая 2024 21:11:46] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=typescript-language-server) {}
+[INFO  Пт 17 мая 2024 21:11:46] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=json-lsp) {}
+[ERROR Пт 17 мая 2024 21:11:47] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=typescript-language-server) error=spawn: npm failed with exit code - and signal -. npm is not executable
+[ERROR Пт 17 мая 2024 21:11:47] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=json-lsp) error=spawn: npm failed with exit code - and signal -. npm is not executable
+[INFO  Пт 17 мая 2024 21:13:50] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=json-lsp) {}
+[INFO  Пт 17 мая 2024 21:13:50] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=typescript-language-server) {}
+[ERROR Пт 17 мая 2024 21:13:51] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=json-lsp) error=spawn: npm failed with exit code - and signal -. npm is not executable
+[ERROR Пт 17 мая 2024 21:13:51] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=typescript-language-server) error=spawn: npm failed with exit code - and signal -. npm is not executable
+[INFO  Пт 17 мая 2024 21:22:31] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=json-lsp) {}
+[INFO  Пт 17 мая 2024 21:22:31] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=typescript-language-server) {}
+[ERROR Пт 17 мая 2024 21:22:31] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=json-lsp) error=spawn: npm failed with exit code - and signal -. npm is not executable
+[ERROR Пт 17 мая 2024 21:22:31] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=typescript-language-server) error=spawn: npm failed with exit code - and signal -. npm is not executable
+[INFO  Пт 17 мая 2024 21:32:45] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=json-lsp) {}
+[INFO  Пт 17 мая 2024 21:32:45] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=typescript-language-server) {}
+[ERROR Пт 17 мая 2024 21:32:46] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=json-lsp) error=spawn: npm failed with exit code - and signal -. npm is not executable
+[ERROR Пт 17 мая 2024 21:32:46] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=typescript-language-server) error=spawn: npm failed with exit code - and signal -. npm is not executable
+[INFO  Пт 17 мая 2024 21:43:51] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=typescript-language-server) {}
+[INFO  Пт 17 мая 2024 21:43:51] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=json-lsp) {}
+[ERROR Пт 17 мая 2024 21:43:51] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=typescript-language-server) error=spawn: npm failed with exit code - and signal -. npm is not executable
+[ERROR Пт 17 мая 2024 21:43:51] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=json-lsp) error=spawn: npm failed with exit code - and signal -. npm is not executable
+[INFO  Пт 17 мая 2024 21:52:06] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=json-lsp) {}
+[INFO  Пт 17 мая 2024 21:52:06] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=typescript-language-server) {}
+[ERROR Пт 17 мая 2024 21:52:06] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=json-lsp) error=spawn: npm failed with exit code - and signal -. npm is not executable
+[ERROR Пт 17 мая 2024 21:52:06] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=typescript-language-server) error=spawn: npm failed with exit code - and signal -. npm is not executable
+[INFO  Пт 17 мая 2024 21:53:31] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=typescript-language-server) {}
+[INFO  Пт 17 мая 2024 21:53:31] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=json-lsp) {}
+[ERROR Пт 17 мая 2024 21:53:31] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=typescript-language-server) error=spawn: npm failed with exit code - and signal -. npm is not executable
+[ERROR Пт 17 мая 2024 21:53:31] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=json-lsp) error=spawn: npm failed with exit code - and signal -. npm is not executable
+[INFO  Пт 17 мая 2024 21:55:34] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=typescript-language-server) {}
+[INFO  Пт 17 мая 2024 21:55:34] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=json-lsp) {}
+[ERROR Пт 17 мая 2024 21:55:35] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=typescript-language-server) error=spawn: npm failed with exit code - and signal -. npm is not executable
+[ERROR Пт 17 мая 2024 21:55:35] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=json-lsp) error=spawn: npm failed with exit code - and signal -. npm is not executable
+[INFO  Пт 17 мая 2024 21:58:48] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=typescript-language-server) {}
+[INFO  Пт 17 мая 2024 21:58:48] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=json-lsp) {}
+[ERROR Пт 17 мая 2024 21:58:48] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=typescript-language-server) error=spawn: npm failed with exit code - and signal -. npm is not executable
+[ERROR Пт 17 мая 2024 21:58:48] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=json-lsp) error=spawn: npm failed with exit code - and signal -. npm is not executable
+[INFO  Пт 17 мая 2024 21:59:53] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=json-lsp) {}
+[INFO  Пт 17 мая 2024 21:59:53] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=typescript-language-server) {}
+[ERROR Пт 17 мая 2024 21:59:54] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=json-lsp) error=spawn: npm failed with exit code - and signal -. npm is not executable
+[ERROR Пт 17 мая 2024 21:59:54] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=typescript-language-server) error=spawn: npm failed with exit code - and signal -. npm is not executable
+[INFO  Пт 17 мая 2024 22:00:57] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=json-lsp) {}
+[INFO  Пт 17 мая 2024 22:00:57] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=typescript-language-server) {}
+[ERROR Пт 17 мая 2024 22:00:57] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=json-lsp) error=spawn: npm failed with exit code - and signal -. npm is not executable
+[ERROR Пт 17 мая 2024 22:00:57] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=typescript-language-server) error=spawn: npm failed with exit code - and signal -. npm is not executable
+[INFO  Пт 17 мая 2024 22:02:23] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=typescript-language-server) {}
+[INFO  Пт 17 мая 2024 22:02:23] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=json-lsp) {}
+[ERROR Пт 17 мая 2024 22:02:23] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=typescript-language-server) error=spawn: npm failed with exit code - and signal -. npm is not executable
+[ERROR Пт 17 мая 2024 22:02:23] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=json-lsp) error=spawn: npm failed with exit code - and signal -. npm is not executable
+[INFO  Пт 17 мая 2024 22:03:24] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=json-lsp) {}
+[INFO  Пт 17 мая 2024 22:03:24] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=typescript-language-server) {}
+[ERROR Пт 17 мая 2024 22:03:24] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=json-lsp) error=spawn: npm failed with exit code - and signal -. npm is not executable
+[ERROR Пт 17 мая 2024 22:03:24] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=typescript-language-server) error=spawn: npm failed with exit code - and signal -. npm is not executable
+[INFO  Пт 17 мая 2024 22:14:09] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=typescript-language-server) {}
+[INFO  Пт 17 мая 2024 22:14:09] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=json-lsp) {}
+[ERROR Пт 17 мая 2024 22:14:10] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=typescript-language-server) error=spawn: npm failed with exit code - and signal -. npm is not executable
+[ERROR Пт 17 мая 2024 22:14:10] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=json-lsp) error=spawn: npm failed with exit code - and signal -. npm is not executable
+[INFO  Пт 17 мая 2024 22:18:24] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=typescript-language-server) {}
+[INFO  Пт 17 мая 2024 22:18:24] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=json-lsp) {}
+[ERROR Пт 17 мая 2024 22:18:24] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=typescript-language-server) error=spawn: npm failed with exit code - and signal -. npm is not executable
+[ERROR Пт 17 мая 2024 22:18:24] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=json-lsp) error=spawn: npm failed with exit code - and signal -. npm is not executable
+[INFO  Пт 17 мая 2024 22:19:16] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=typescript-language-server) {}
+[INFO  Пт 17 мая 2024 22:19:16] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=json-lsp) {}
+[ERROR Пт 17 мая 2024 22:19:16] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=typescript-language-server) error=spawn: npm failed with exit code - and signal -. npm is not executable
+[ERROR Пт 17 мая 2024 22:19:16] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=json-lsp) error=spawn: npm failed with exit code - and signal -. npm is not executable
+[INFO  Пт 17 мая 2024 22:19:25] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=typescript-language-server) {}
+[INFO  Пт 17 мая 2024 22:19:25] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=json-lsp) {}
+[ERROR Пт 17 мая 2024 22:19:25] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=typescript-language-server) error=spawn: npm failed with exit code - and signal -. npm is not executable
+[ERROR Пт 17 мая 2024 22:19:25] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=json-lsp) error=spawn: npm failed with exit code - and signal -. npm is not executable
+[INFO  Пт 17 мая 2024 22:52:45] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=json-lsp) {}
+[INFO  Пт 17 мая 2024 22:52:45] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=typescript-language-server) {}
+[ERROR Пт 17 мая 2024 22:52:45] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=json-lsp) error=spawn: npm failed with exit code - and signal -. npm is not executable
+[ERROR Пт 17 мая 2024 22:52:45] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=typescript-language-server) error=spawn: npm failed with exit code - and signal -. npm is not executable
+[INFO  Пт 17 мая 2024 22:56:49] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=typescript-language-server) {}
+[INFO  Пт 17 мая 2024 22:56:49] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=json-lsp) {}
+[ERROR Пт 17 мая 2024 22:56:49] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=typescript-language-server) error=spawn: npm failed with exit code - and signal -. npm is not executable
+[ERROR Пт 17 мая 2024 22:56:49] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=json-lsp) error=spawn: npm failed with exit code - and signal -. npm is not executable
+[INFO  Пт 17 мая 2024 23:06:19] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=json-lsp) {}
+[INFO  Пт 17 мая 2024 23:06:19] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=typescript-language-server) {}
+[ERROR Пт 17 мая 2024 23:06:19] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=json-lsp) error=spawn: npm failed with exit code - and signal -. npm is not executable
+[ERROR Пт 17 мая 2024 23:06:19] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=typescript-language-server) error=spawn: npm failed with exit code - and signal -. npm is not executable
+[INFO  Пт 17 мая 2024 23:13:00] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=typescript-language-server) {}
+[INFO  Пт 17 мая 2024 23:13:00] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=json-lsp) {}
+[ERROR Пт 17 мая 2024 23:13:01] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=typescript-language-server) error=spawn: npm failed with exit code - and signal -. npm is not executable
+[ERROR Пт 17 мая 2024 23:13:01] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=json-lsp) error=spawn: npm failed with exit code - and signal -. npm is not executable
+[INFO  Пт 17 мая 2024 23:13:16] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=json-lsp) {}
+[INFO  Пт 17 мая 2024 23:13:16] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=typescript-language-server) {}
+[ERROR Пт 17 мая 2024 23:13:16] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=json-lsp) error=spawn: npm failed with exit code - and signal -. npm is not executable
+[ERROR Пт 17 мая 2024 23:13:16] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=typescript-language-server) error=spawn: npm failed with exit code - and signal -. npm is not executable
+[INFO  Пт 17 мая 2024 23:32:07] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=typescript-language-server) {}
+[INFO  Пт 17 мая 2024 23:32:07] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=json-lsp) {}
+[ERROR Пт 17 мая 2024 23:32:07] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=typescript-language-server) error=spawn: npm failed with exit code - and signal -. npm is not executable
+[ERROR Пт 17 мая 2024 23:32:07] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=json-lsp) error=spawn: npm failed with exit code - and signal -. npm is not executable
+[INFO  Пт 17 мая 2024 23:33:37] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=typescript-language-server) {}
+[INFO  Пт 17 мая 2024 23:33:37] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=json-lsp) {}
+[ERROR Пт 17 мая 2024 23:33:37] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=typescript-language-server) error=spawn: npm failed with exit code - and signal -. npm is not executable
+[ERROR Пт 17 мая 2024 23:33:37] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=json-lsp) error=spawn: npm failed with exit code - and signal -. npm is not executable
+[INFO  Сб 18 мая 2024 00:43:35] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=typescript-language-server) {}
+[INFO  Сб 18 мая 2024 00:43:35] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=json-lsp) {}
+[ERROR Сб 18 мая 2024 00:43:36] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=json-lsp) error=spawn: npm failed with exit code - and signal -. npm is not executable
+[ERROR Сб 18 мая 2024 00:43:36] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=typescript-language-server) error=spawn: npm failed with exit code - and signal -. npm is not executable
+[INFO  Сб 18 мая 2024 00:44:53] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=typescript-language-server) {}
+[INFO  Сб 18 мая 2024 00:44:53] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=json-lsp) {}
+[ERROR Сб 18 мая 2024 00:44:53] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=typescript-language-server) error=spawn: npm failed with exit code - and signal -. npm is not executable
+[ERROR Сб 18 мая 2024 00:44:53] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=json-lsp) error=spawn: npm failed with exit code - and signal -. npm is not executable
+[INFO  Сб 18 мая 2024 00:45:09] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=json-lsp) {}
+[INFO  Сб 18 мая 2024 00:45:09] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=typescript-language-server) {}
+[ERROR Сб 18 мая 2024 00:45:09] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=json-lsp) error=spawn: npm failed with exit code - and signal -. npm is not executable
+[ERROR Сб 18 мая 2024 00:45:09] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=typescript-language-server) error=spawn: npm failed with exit code - and signal -. npm is not executable
+[INFO  Сб 18 мая 2024 00:45:39] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=json-lsp) {}
+[INFO  Сб 18 мая 2024 00:45:39] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=typescript-language-server) {}
+[ERROR Сб 18 мая 2024 00:45:39] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=json-lsp) error=spawn: npm failed with exit code - and signal -. npm is not executable
+[ERROR Сб 18 мая 2024 00:45:39] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=typescript-language-server) error=spawn: npm failed with exit code - and signal -. npm is not executable
+[INFO  Сб 18 мая 2024 00:46:00] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=typescript-language-server) {}
+[INFO  Сб 18 мая 2024 00:46:00] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=json-lsp) {}
+[ERROR Сб 18 мая 2024 00:46:00] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=typescript-language-server) error=spawn: npm failed with exit code - and signal -. npm is not executable
+[ERROR Сб 18 мая 2024 00:46:00] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=json-lsp) error=spawn: npm failed with exit code - and signal -. npm is not executable
+[INFO  Сб 18 мая 2024 00:47:12] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=typescript-language-server) {}
+[INFO  Сб 18 мая 2024 00:47:12] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=json-lsp) {}
+[ERROR Сб 18 мая 2024 00:47:12] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=typescript-language-server) error=spawn: npm failed with exit code - and signal -. npm is not executable
+[ERROR Сб 18 мая 2024 00:47:12] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=json-lsp) error=spawn: npm failed with exit code - and signal -. npm is not executable
+[INFO  Сб 18 мая 2024 00:49:46] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=json-lsp) {}
+[INFO  Сб 18 мая 2024 00:49:46] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=typescript-language-server) {}
+[ERROR Сб 18 мая 2024 00:49:46] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=json-lsp) error=spawn: npm failed with exit code - and signal -. npm is not executable
+[ERROR Сб 18 мая 2024 00:49:46] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=typescript-language-server) error=spawn: npm failed with exit code - and signal -. npm is not executable
+[INFO  Сб 18 мая 2024 00:51:13] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=json-lsp) {}
+[INFO  Сб 18 мая 2024 00:51:13] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=typescript-language-server) {}
+[ERROR Сб 18 мая 2024 00:51:13] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=json-lsp) error=spawn: npm failed with exit code - and signal -. npm is not executable
+[ERROR Сб 18 мая 2024 00:51:13] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=typescript-language-server) error=spawn: npm failed with exit code - and signal -. npm is not executable
+[INFO  Сб 18 мая 2024 00:51:45] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=typescript-language-server) {}
+[INFO  Сб 18 мая 2024 00:51:45] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=json-lsp) {}
+[ERROR Сб 18 мая 2024 00:51:45] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=typescript-language-server) error=spawn: npm failed with exit code - and signal -. npm is not executable
+[ERROR Сб 18 мая 2024 00:51:45] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=json-lsp) error=spawn: npm failed with exit code - and signal -. npm is not executable
+[INFO  Сб 18 мая 2024 00:55:36] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=typescript-language-server) {}
+[INFO  Сб 18 мая 2024 00:55:36] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=json-lsp) {}
+[ERROR Сб 18 мая 2024 00:55:36] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=typescript-language-server) error=spawn: npm failed with exit code - and signal -. npm is not executable
+[ERROR Сб 18 мая 2024 00:55:36] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=json-lsp) error=spawn: npm failed with exit code - and signal -. npm is not executable
+[INFO  Сб 18 мая 2024 00:56:02] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=typescript-language-server) {}
+[INFO  Сб 18 мая 2024 00:56:02] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=json-lsp) {}
+[ERROR Сб 18 мая 2024 00:56:02] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=typescript-language-server) error=spawn: npm failed with exit code - and signal -. npm is not executable
+[ERROR Сб 18 мая 2024 00:56:02] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=json-lsp) error=spawn: npm failed with exit code - and signal -. npm is not executable
+[INFO  Сб 18 мая 2024 00:57:45] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=typescript-language-server) {}
+[INFO  Сб 18 мая 2024 00:57:45] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=json-lsp) {}
+[ERROR Сб 18 мая 2024 00:57:45] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=typescript-language-server) error=spawn: npm failed with exit code - and signal -. npm is not executable
+[ERROR Сб 18 мая 2024 00:57:45] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=json-lsp) error=spawn: npm failed with exit code - and signal -. npm is not executable
+[INFO  Сб 18 мая 2024 00:59:45] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=json-lsp) {}
+[INFO  Сб 18 мая 2024 00:59:45] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=typescript-language-server) {}
+[ERROR Сб 18 мая 2024 00:59:45] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=json-lsp) error=spawn: npm failed with exit code - and signal -. npm is not executable
+[ERROR Сб 18 мая 2024 00:59:45] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=typescript-language-server) error=spawn: npm failed with exit code - and signal -. npm is not executable
+[INFO  Сб 18 мая 2024 01:07:00] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=typescript-language-server) {}
+[INFO  Сб 18 мая 2024 01:07:00] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=json-lsp) {}
+[ERROR Сб 18 мая 2024 01:07:00] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=typescript-language-server) error=spawn: npm failed with exit code - and signal -. npm is not executable
+[ERROR Сб 18 мая 2024 01:07:00] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=json-lsp) error=spawn: npm failed with exit code - and signal -. npm is not executable
+[INFO  Сб 18 мая 2024 01:10:51] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=typescript-language-server) {}
+[INFO  Сб 18 мая 2024 01:10:51] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=json-lsp) {}
+[ERROR Сб 18 мая 2024 01:10:51] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=typescript-language-server) error=spawn: npm failed with exit code - and signal -. npm is not executable
+[ERROR Сб 18 мая 2024 01:10:51] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=json-lsp) error=spawn: npm failed with exit code - and signal -. npm is not executable
+[INFO  Сб 18 мая 2024 01:17:28] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=json-lsp) {}
+[INFO  Сб 18 мая 2024 01:17:28] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=typescript-language-server) {}
+[ERROR Сб 18 мая 2024 01:17:28] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=json-lsp) error=spawn: npm failed with exit code - and signal -. npm is not executable
+[ERROR Сб 18 мая 2024 01:17:28] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=typescript-language-server) error=spawn: npm failed with exit code - and signal -. npm is not executable
+[INFO  Сб 18 мая 2024 01:26:54] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=typescript-language-server) {}
+[INFO  Сб 18 мая 2024 01:26:54] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=json-lsp) {}
+[ERROR Сб 18 мая 2024 01:26:54] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=typescript-language-server) error=spawn: npm failed with exit code - and signal -. npm is not executable
+[ERROR Сб 18 мая 2024 01:26:54] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=json-lsp) error=spawn: npm failed with exit code - and signal -. npm is not executable
+[INFO  Сб 18 мая 2024 02:51:48] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=json-lsp) {}
+[INFO  Сб 18 мая 2024 02:51:48] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=typescript-language-server) {}
+[ERROR Сб 18 мая 2024 02:51:48] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=json-lsp) error=spawn: npm failed with exit code - and signal -. npm is not executable
+[ERROR Сб 18 мая 2024 02:51:48] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=typescript-language-server) error=spawn: npm failed with exit code - and signal -. npm is not executable
+[INFO  Сб 18 мая 2024 02:56:19] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=typescript-language-server) {}
+[INFO  Сб 18 мая 2024 02:56:19] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=json-lsp) {}
+[ERROR Сб 18 мая 2024 02:56:19] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=typescript-language-server) error=spawn: npm failed with exit code - and signal -. npm is not executable
+[ERROR Сб 18 мая 2024 02:56:19] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=json-lsp) error=spawn: npm failed with exit code - and signal -. npm is not executable
+[INFO  Сб 18 мая 2024 03:06:02] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=json-lsp) {}
+[INFO  Сб 18 мая 2024 03:06:02] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=typescript-language-server) {}
+[ERROR Сб 18 мая 2024 03:06:02] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=json-lsp) error=spawn: npm failed with exit code - and signal -. npm is not executable
+[ERROR Сб 18 мая 2024 03:06:02] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=typescript-language-server) error=spawn: npm failed with exit code - and signal -. npm is not executable
+[INFO  Сб 18 мая 2024 03:06:28] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=typescript-language-server) {}
+[INFO  Сб 18 мая 2024 03:06:28] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=json-lsp) {}
+[ERROR Сб 18 мая 2024 03:06:28] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=typescript-language-server) error=spawn: npm failed with exit code - and signal -. npm is not executable
+[ERROR Сб 18 мая 2024 03:06:28] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=json-lsp) error=spawn: npm failed with exit code - and signal -. npm is not executable
+[INFO  Сб 18 мая 2024 03:14:01] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=typescript-language-server) {}
+[INFO  Сб 18 мая 2024 03:14:01] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=json-lsp) {}
+[ERROR Сб 18 мая 2024 03:14:01] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=typescript-language-server) error=spawn: npm failed with exit code - and signal -. npm is not executable
+[ERROR Сб 18 мая 2024 03:14:01] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=json-lsp) error=spawn: npm failed with exit code - and signal -. npm is not executable
+[INFO  Сб 18 мая 2024 03:14:29] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=typescript-language-server) {}
+[INFO  Сб 18 мая 2024 03:14:29] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=json-lsp) {}
+[ERROR Сб 18 мая 2024 03:14:29] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=typescript-language-server) error=spawn: npm failed with exit code - and signal -. npm is not executable
+[ERROR Сб 18 мая 2024 03:14:29] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=json-lsp) error=spawn: npm failed with exit code - and signal -. npm is not executable
+[INFO  Сб 18 мая 2024 03:17:40] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=typescript-language-server) {}
+[INFO  Сб 18 мая 2024 03:17:40] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=json-lsp) {}
+[ERROR Сб 18 мая 2024 03:17:40] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=typescript-language-server) error=spawn: npm failed with exit code - and signal -. npm is not executable
+[ERROR Сб 18 мая 2024 03:17:40] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=json-lsp) error=spawn: npm failed with exit code - and signal -. npm is not executable
+[INFO  Сб 18 мая 2024 03:19:40] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=json-lsp) {}
+[INFO  Сб 18 мая 2024 03:19:40] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=typescript-language-server) {}
+[ERROR Сб 18 мая 2024 03:19:41] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=json-lsp) error=spawn: npm failed with exit code - and signal -. npm is not executable
+[ERROR Сб 18 мая 2024 03:19:41] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=typescript-language-server) error=spawn: npm failed with exit code - and signal -. npm is not executable
+[INFO  Сб 18 мая 2024 03:22:25] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=json-lsp) {}
+[INFO  Сб 18 мая 2024 03:22:25] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=typescript-language-server) {}
+[ERROR Сб 18 мая 2024 03:22:25] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=json-lsp) error=spawn: npm failed with exit code - and signal -. npm is not executable
+[ERROR Сб 18 мая 2024 03:22:25] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=typescript-language-server) error=spawn: npm failed with exit code - and signal -. npm is not executable
+[INFO  Сб 18 мая 2024 03:24:46] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=json-lsp) {}
+[INFO  Сб 18 мая 2024 03:24:46] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=typescript-language-server) {}
+[ERROR Сб 18 мая 2024 03:24:46] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=json-lsp) error=spawn: npm failed with exit code - and signal -. npm is not executable
+[ERROR Сб 18 мая 2024 03:24:46] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=typescript-language-server) error=spawn: npm failed with exit code - and signal -. npm is not executable
+[INFO  Сб 18 мая 2024 03:25:27] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=typescript-language-server) {}
+[INFO  Сб 18 мая 2024 03:25:27] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=json-lsp) {}
+[ERROR Сб 18 мая 2024 03:25:27] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=typescript-language-server) error=spawn: npm failed with exit code - and signal -. npm is not executable
+[ERROR Сб 18 мая 2024 03:25:27] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=json-lsp) error=spawn: npm failed with exit code - and signal -. npm is not executable
+[INFO  Сб 18 мая 2024 03:32:10] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=typescript-language-server) {}
+[INFO  Сб 18 мая 2024 03:32:10] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=json-lsp) {}
+[ERROR Сб 18 мая 2024 03:32:10] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=typescript-language-server) error=spawn: npm failed with exit code - and signal -. npm is not executable
+[ERROR Сб 18 мая 2024 03:32:10] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=json-lsp) error=spawn: npm failed with exit code - and signal -. npm is not executable
+[INFO  Сб 18 мая 2024 03:33:28] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=typescript-language-server) {}
+[INFO  Сб 18 мая 2024 03:33:28] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=json-lsp) {}
+[ERROR Сб 18 мая 2024 03:33:29] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=typescript-language-server) error=spawn: npm failed with exit code - and signal -. npm is not executable
+[ERROR Сб 18 мая 2024 03:33:29] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=json-lsp) error=spawn: npm failed with exit code - and signal -. npm is not executable
+[INFO  Сб 18 мая 2024 03:33:43] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=typescript-language-server) {}
+[INFO  Сб 18 мая 2024 03:33:43] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=json-lsp) {}
+[ERROR Сб 18 мая 2024 03:33:43] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=typescript-language-server) error=spawn: npm failed with exit code - and signal -. npm is not executable
+[ERROR Сб 18 мая 2024 03:33:43] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=json-lsp) error=spawn: npm failed with exit code - and signal -. npm is not executable
+[INFO  Сб 18 мая 2024 03:35:30] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=typescript-language-server) {}
+[INFO  Сб 18 мая 2024 03:35:30] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=json-lsp) {}
+[ERROR Сб 18 мая 2024 03:35:30] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=typescript-language-server) error=spawn: npm failed with exit code - and signal -. npm is not executable
+[ERROR Сб 18 мая 2024 03:35:30] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=json-lsp) error=spawn: npm failed with exit code - and signal -. npm is not executable
+[INFO  Сб 18 мая 2024 03:36:05] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=typescript-language-server) {}
+[INFO  Сб 18 мая 2024 03:36:05] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=json-lsp) {}
+[ERROR Сб 18 мая 2024 03:36:05] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=typescript-language-server) error=spawn: npm failed with exit code - and signal -. npm is not executable
+[ERROR Сб 18 мая 2024 03:36:05] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=json-lsp) error=spawn: npm failed with exit code - and signal -. npm is not executable
+[INFO  Сб 18 мая 2024 03:36:58] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=typescript-language-server) {}
+[INFO  Сб 18 мая 2024 03:36:58] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=json-lsp) {}
+[ERROR Сб 18 мая 2024 03:36:58] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=typescript-language-server) error=spawn: npm failed with exit code - and signal -. npm is not executable
+[ERROR Сб 18 мая 2024 03:36:58] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=json-lsp) error=spawn: npm failed with exit code - and signal -. npm is not executable
+[INFO  Сб 18 мая 2024 03:37:11] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=json-lsp) {}
+[INFO  Сб 18 мая 2024 03:37:11] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=typescript-language-server) {}
+[ERROR Сб 18 мая 2024 03:37:11] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=json-lsp) error=spawn: npm failed with exit code - and signal -. npm is not executable
+[ERROR Сб 18 мая 2024 03:37:11] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=typescript-language-server) error=spawn: npm failed with exit code - and signal -. npm is not executable
+[INFO  Сб 18 мая 2024 03:44:14] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=typescript-language-server) {}
+[INFO  Сб 18 мая 2024 03:44:14] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=json-lsp) {}
+[ERROR Сб 18 мая 2024 03:44:14] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=typescript-language-server) error=spawn: npm failed with exit code - and signal -. npm is not executable
+[ERROR Сб 18 мая 2024 03:44:14] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=json-lsp) error=spawn: npm failed with exit code - and signal -. npm is not executable
+[INFO  Сб 18 мая 2024 03:46:52] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=json-lsp) {}
+[INFO  Сб 18 мая 2024 03:46:52] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=typescript-language-server) {}
+[ERROR Сб 18 мая 2024 03:46:52] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=json-lsp) error=spawn: npm failed with exit code - and signal -. npm is not executable
+[ERROR Сб 18 мая 2024 03:46:52] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=typescript-language-server) error=spawn: npm failed with exit code - and signal -. npm is not executable
+[INFO  Сб 18 мая 2024 03:56:05] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=typescript-language-server) {}
+[INFO  Сб 18 мая 2024 03:56:05] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=json-lsp) {}
+[ERROR Сб 18 мая 2024 03:56:05] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=typescript-language-server) error=spawn: npm failed with exit code - and signal -. npm is not executable
+[ERROR Сб 18 мая 2024 03:56:05] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=json-lsp) error=spawn: npm failed with exit code - and signal -. npm is not executable
+[INFO  Сб 18 мая 2024 04:00:41] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=typescript-language-server) {}
+[INFO  Сб 18 мая 2024 04:00:41] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=json-lsp) {}
+[INFO  Сб 18 мая 2024 04:00:44] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:245: Installation succeeded for Package(name=typescript-language-server)
+[INFO  Сб 18 мая 2024 04:00:45] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:245: Installation succeeded for Package(name=json-lsp)
+[INFO  Вс 26 мая 2024 19:20:40] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=markdownlint) {}
+[INFO  Вс 26 мая 2024 19:20:40] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=marksman) {}
+[INFO  Вс 26 мая 2024 19:20:40] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=clangd) {}
+[INFO  Вс 26 мая 2024 19:20:40] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=pyright) {}
+[INFO  Вс 26 мая 2024 19:20:42] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=ruff-lsp) {}
+[INFO  Вс 26 мая 2024 19:20:42] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:245: Installation succeeded for Package(name=marksman)
+[INFO  Вс 26 мая 2024 19:20:43] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:245: Installation succeeded for Package(name=pyright)
+[INFO  Вс 26 мая 2024 19:20:44] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:245: Installation succeeded for Package(name=markdownlint)
+[INFO  Вс 26 мая 2024 19:20:47] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:245: Installation succeeded for Package(name=ruff-lsp)
+[INFO  Вс 26 мая 2024 19:20:52] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:245: Installation succeeded for Package(name=clangd)
+[INFO  Вс 26 мая 2024 21:34:38] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=markdownlint) Package(name=markdownlint)
+[INFO  Вс 26 мая 2024 21:34:43] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:245: Installation succeeded for Package(name=markdownlint)
+[INFO  Вс 26 мая 2024 21:35:46] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=tree-sitter-cli) {}
+[INFO  Вс 26 мая 2024 21:35:47] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:245: Installation succeeded for Package(name=tree-sitter-cli)
+[INFO  Вс 26 мая 2024 22:12:11] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=ruff-lsp) {}
+[INFO  Вс 26 мая 2024 22:12:14] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:245: Installation succeeded for Package(name=ruff-lsp)
+[INFO  Вс 26 мая 2024 22:15:08] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=isort) {}
+[INFO  Вс 26 мая 2024 22:15:11] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:245: Installation succeeded for Package(name=isort)
+[INFO  Вс 26 мая 2024 22:15:22] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=debugpy) {}
+[INFO  Вс 26 мая 2024 22:15:26] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:245: Installation succeeded for Package(name=debugpy)
+[INFO  Вс 26 мая 2024 22:15:49] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=lua-language-server) {}
+[INFO  Вс 26 мая 2024 22:15:50] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:245: Installation succeeded for Package(name=lua-language-server)
+[INFO  Вс 26 мая 2024 22:15:52] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=debugpy) {}
+[INFO  Вс 26 мая 2024 22:15:55] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:245: Installation succeeded for Package(name=debugpy)
+[INFO  Вс 26 мая 2024 22:15:57] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=isort) {}
+[INFO  Вс 26 мая 2024 22:16:00] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:245: Installation succeeded for Package(name=isort)
+[INFO  Вс 26 мая 2024 22:18:34] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=black) {}
+[INFO  Вс 26 мая 2024 22:18:38] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:245: Installation succeeded for Package(name=black)
+[INFO  Вс 26 мая 2024 22:19:08] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=black) {}
+[INFO  Вс 26 мая 2024 22:19:11] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:245: Installation succeeded for Package(name=black)
+[INFO  Вс 26 мая 2024 22:20:16] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=pylint) {}
+[INFO  Вс 26 мая 2024 22:20:20] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:245: Installation succeeded for Package(name=pylint)
+[INFO  Вс 26 мая 2024 22:50:38] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=ruff-lsp) {}
+[ERROR Вс 26 мая 2024 22:50:40] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=ruff-lsp) error="Installation was aborted."
+[INFO  Вс 26 мая 2024 22:54:49] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=ruff-lsp) {}
+[INFO  Пн 27 мая 2024 17:34:56] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=flake8) {}
+[INFO  Пн 27 мая 2024 17:34:59] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:245: Installation succeeded for Package(name=flake8)
+[INFO  Пн 27 мая 2024 17:36:30] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=pyright) {}
+[INFO  Пн 27 мая 2024 17:36:32] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:245: Installation succeeded for Package(name=pyright)
+[INFO  Пн 27 мая 2024 17:38:53] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=pyright) {}
+[INFO  Пн 27 мая 2024 17:38:55] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:245: Installation succeeded for Package(name=pyright)
+[INFO  Пн 27 мая 2024 17:39:48] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=pyproject-flake8) {}
+[INFO  Пн 27 мая 2024 17:39:52] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:245: Installation succeeded for Package(name=pyproject-flake8)
+[INFO  Пн 27 мая 2024 17:42:07] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=ruff-lsp) {}
+[ERROR Пн 27 мая 2024 17:42:07] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:61: Lockfile already exists. Package(name=ruff-lsp)
+[ERROR Пн 27 мая 2024 17:42:07] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=ruff-lsp) error="Lockfile exists, installation is already running in another process (pid: 42146). Run with :MasonInstall --force to bypass."
+[INFO  Пн 27 мая 2024 17:45:30] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=python-lsp-server) {}
+[INFO  Пн 27 мая 2024 17:45:35] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=ruff-lsp) {}
+[ERROR Пн 27 мая 2024 17:45:35] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:61: Lockfile already exists. Package(name=ruff-lsp)
+[ERROR Пн 27 мая 2024 17:45:35] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=ruff-lsp) error="Lockfile exists, installation is already running in another process (pid: 42146). Run with :MasonInstall --force to bypass."
+[INFO  Пн 27 мая 2024 17:45:39] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:245: Installation succeeded for Package(name=python-lsp-server)
+[INFO  Пн 27 мая 2024 17:45:43] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=ruff-lsp) {}
+[ERROR Пн 27 мая 2024 17:45:43] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:61: Lockfile already exists. Package(name=ruff-lsp)
+[ERROR Пн 27 мая 2024 17:45:43] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=ruff-lsp) error="Lockfile exists, installation is already running in another process (pid: 42146). Run with :MasonInstall --force to bypass."
+[INFO  Пн 27 мая 2024 17:45:50] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=ruff-lsp) {}
+[ERROR Пн 27 мая 2024 17:45:50] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:61: Lockfile already exists. Package(name=ruff-lsp)
+[ERROR Пн 27 мая 2024 17:45:50] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=ruff-lsp) error="Lockfile exists, installation is already running in another process (pid: 42146). Run with :MasonInstall --force to bypass."
+[INFO  Пн 27 мая 2024 17:45:51] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=ruff-lsp) {}
+[ERROR Пн 27 мая 2024 17:45:51] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:61: Lockfile already exists. Package(name=ruff-lsp)
+[ERROR Пн 27 мая 2024 17:45:51] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=ruff-lsp) error="Lockfile exists, installation is already running in another process (pid: 42146). Run with :MasonInstall --force to bypass."
+[INFO  Пн 27 мая 2024 17:45:51] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=ruff-lsp) {}
+[ERROR Пн 27 мая 2024 17:45:51] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:61: Lockfile already exists. Package(name=ruff-lsp)
+[ERROR Пн 27 мая 2024 17:45:51] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=ruff-lsp) error="Lockfile exists, installation is already running in another process (pid: 42146). Run with :MasonInstall --force to bypass."
+[INFO  Пн 27 мая 2024 17:45:51] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=ruff-lsp) {}
+[ERROR Пн 27 мая 2024 17:45:51] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:61: Lockfile already exists. Package(name=ruff-lsp)
+[ERROR Пн 27 мая 2024 17:45:51] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=ruff-lsp) error="Lockfile exists, installation is already running in another process (pid: 42146). Run with :MasonInstall --force to bypass."
+[INFO  Пн 27 мая 2024 17:45:51] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=ruff-lsp) {}
+[ERROR Пн 27 мая 2024 17:45:51] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:61: Lockfile already exists. Package(name=ruff-lsp)
+[ERROR Пн 27 мая 2024 17:45:51] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=ruff-lsp) error="Lockfile exists, installation is already running in another process (pid: 42146). Run with :MasonInstall --force to bypass."
+[INFO  Пн 27 мая 2024 17:45:51] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=ruff-lsp) {}
+[ERROR Пн 27 мая 2024 17:45:51] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:61: Lockfile already exists. Package(name=ruff-lsp)
+[ERROR Пн 27 мая 2024 17:45:51] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=ruff-lsp) error="Lockfile exists, installation is already running in another process (pid: 42146). Run with :MasonInstall --force to bypass."
+[INFO  Пн 27 мая 2024 17:45:53] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=ruff-lsp) {}
+[ERROR Пн 27 мая 2024 17:45:53] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:61: Lockfile already exists. Package(name=ruff-lsp)
+[ERROR Пн 27 мая 2024 17:45:53] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=ruff-lsp) error="Lockfile exists, installation is already running in another process (pid: 42146). Run with :MasonInstall --force to bypass."
+[INFO  Пн 27 мая 2024 17:45:53] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=ruff-lsp) {}
+[ERROR Пн 27 мая 2024 17:45:53] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:61: Lockfile already exists. Package(name=ruff-lsp)
+[ERROR Пн 27 мая 2024 17:45:53] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=ruff-lsp) error="Lockfile exists, installation is already running in another process (pid: 42146). Run with :MasonInstall --force to bypass."
+[INFO  Пн 27 мая 2024 17:45:54] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=ruff-lsp) {}
+[ERROR Пн 27 мая 2024 17:45:54] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:61: Lockfile already exists. Package(name=ruff-lsp)
+[ERROR Пн 27 мая 2024 17:45:54] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=ruff-lsp) error="Lockfile exists, installation is already running in another process (pid: 42146). Run with :MasonInstall --force to bypass."
+[INFO  Пн 27 мая 2024 17:45:54] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=ruff-lsp) {}
+[ERROR Пн 27 мая 2024 17:45:54] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:61: Lockfile already exists. Package(name=ruff-lsp)
+[ERROR Пн 27 мая 2024 17:45:54] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=ruff-lsp) error="Lockfile exists, installation is already running in another process (pid: 42146). Run with :MasonInstall --force to bypass."
+[INFO  Пн 27 мая 2024 17:45:54] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=ruff-lsp) {}
+[ERROR Пн 27 мая 2024 17:45:54] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:61: Lockfile already exists. Package(name=ruff-lsp)
+[ERROR Пн 27 мая 2024 17:45:54] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=ruff-lsp) error="Lockfile exists, installation is already running in another process (pid: 42146). Run with :MasonInstall --force to bypass."
+[INFO  Пн 27 мая 2024 17:45:54] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=ruff-lsp) {}
+[ERROR Пн 27 мая 2024 17:45:54] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:61: Lockfile already exists. Package(name=ruff-lsp)
+[ERROR Пн 27 мая 2024 17:45:54] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=ruff-lsp) error="Lockfile exists, installation is already running in another process (pid: 42146). Run with :MasonInstall --force to bypass."
+[INFO  Пн 27 мая 2024 17:45:54] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=ruff-lsp) {}
+[ERROR Пн 27 мая 2024 17:45:54] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:61: Lockfile already exists. Package(name=ruff-lsp)
+[ERROR Пн 27 мая 2024 17:45:54] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=ruff-lsp) error="Lockfile exists, installation is already running in another process (pid: 42146). Run with :MasonInstall --force to bypass."
+[INFO  Пн 27 мая 2024 17:45:55] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=ruff-lsp) {}
+[ERROR Пн 27 мая 2024 17:45:55] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:61: Lockfile already exists. Package(name=ruff-lsp)
+[ERROR Пн 27 мая 2024 17:45:55] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=ruff-lsp) error="Lockfile exists, installation is already running in another process (pid: 42146). Run with :MasonInstall --force to bypass."
+[INFO  Пн 27 мая 2024 17:45:55] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=ruff-lsp) {}
+[ERROR Пн 27 мая 2024 17:45:55] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:61: Lockfile already exists. Package(name=ruff-lsp)
+[ERROR Пн 27 мая 2024 17:45:55] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=ruff-lsp) error="Lockfile exists, installation is already running in another process (pid: 42146). Run with :MasonInstall --force to bypass."
+[INFO  Пн 27 мая 2024 17:46:01] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=ruff-lsp) {}
+[ERROR Пн 27 мая 2024 17:46:01] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:61: Lockfile already exists. Package(name=ruff-lsp)
+[ERROR Пн 27 мая 2024 17:46:01] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=ruff-lsp) error="Lockfile exists, installation is already running in another process (pid: 42146). Run with :MasonInstall --force to bypass."
+[INFO  Пн 27 мая 2024 17:47:14] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=pyproject-flake8) {}
+[INFO  Пн 27 мая 2024 17:47:17] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:245: Installation succeeded for Package(name=pyproject-flake8)
+[INFO  Пн 27 мая 2024 17:47:45] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=blackd-client) {}
+[INFO  Пн 27 мая 2024 17:47:46] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:245: Installation succeeded for Package(name=blackd-client)
+[INFO  Пн 27 мая 2024 17:47:55] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=basedpyright) {}
+[INFO  Пн 27 мая 2024 17:48:01] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=flake8) {}
+[INFO  Пн 27 мая 2024 17:48:01] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:245: Installation succeeded for Package(name=basedpyright)
+[INFO  Пн 27 мая 2024 17:48:04] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:245: Installation succeeded for Package(name=flake8)
+[INFO  Пн 27 мая 2024 17:48:23] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=ruff-lsp) {}
+[ERROR Пн 27 мая 2024 17:48:23] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:61: Lockfile already exists. Package(name=ruff-lsp)
+[ERROR Пн 27 мая 2024 17:48:23] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=ruff-lsp) error="Lockfile exists, installation is already running in another process (pid: 42146). Run with :MasonInstall --force to bypass."
+[INFO  Пн 27 мая 2024 17:48:31] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=ruff-lsp) {}
+[ERROR Пн 27 мая 2024 17:48:31] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:61: Lockfile already exists. Package(name=ruff-lsp)
+[ERROR Пн 27 мая 2024 17:48:31] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=ruff-lsp) error="Lockfile exists, installation is already running in another process (pid: 42146). Run with :MasonInstall --force to bypass."
+[INFO  Пн 27 мая 2024 17:49:18] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=ruff-lsp) {}
+[ERROR Пн 27 мая 2024 17:49:18] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:61: Lockfile already exists. Package(name=ruff-lsp)
+[ERROR Пн 27 мая 2024 17:49:18] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=ruff-lsp) error="Lockfile exists, installation is already running in another process (pid: 42146). Run with :MasonInstall --force to bypass."
+[INFO  Пн 27 мая 2024 17:50:14] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=ruff-lsp) {}
+[ERROR Пн 27 мая 2024 17:50:14] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:61: Lockfile already exists. Package(name=ruff-lsp)
+[ERROR Пн 27 мая 2024 17:50:14] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=ruff-lsp) error="Lockfile exists, installation is already running in another process (pid: 42146). Run with :MasonInstall --force to bypass."
+[INFO  Пн 27 мая 2024 17:50:25] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=ruff-lsp) {
+  force = true
+}
+[INFO  Пн 27 мая 2024 17:50:28] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:245: Installation succeeded for Package(name=ruff-lsp)
+[INFO  Пн 27 мая 2024 19:19:52] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=pyright) {}
+[INFO  Пн 27 мая 2024 19:19:52] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=ruff-lsp) {}
+[INFO  Пн 27 мая 2024 19:19:55] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:245: Installation succeeded for Package(name=pyright)
+[INFO  Пн 27 мая 2024 19:19:56] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:245: Installation succeeded for Package(name=ruff-lsp)
+[INFO  Пн 27 мая 2024 19:21:51] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=ruff-lsp) {}
+[INFO  Пн 27 мая 2024 19:21:51] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=pyright) {}
+[INFO  Пн 27 мая 2024 19:21:52] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:245: Installation succeeded for Package(name=pyright)
+[INFO  Пн 27 мая 2024 19:21:55] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:245: Installation succeeded for Package(name=ruff-lsp)
+[ERROR Пн 27 мая 2024 19:22:53] ...l/share/nvim/lazy/mason.nvim/lua/mason-registry/init.lua:79: Cannot find package "\"--force\"".
+[INFO  Пн 27 мая 2024 19:23:43] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=pyright) {}
+[INFO  Пн 27 мая 2024 19:23:43] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=ruff-lsp) {}
+[INFO  Пн 27 мая 2024 19:23:44] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:245: Installation succeeded for Package(name=pyright)
+[INFO  Пн 27 мая 2024 19:23:46] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:245: Installation succeeded for Package(name=ruff-lsp)
+[INFO  Пн 27 мая 2024 19:26:02] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=stylua) {}
+[INFO  Пн 27 мая 2024 19:26:02] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=shfmt) {}
+[INFO  Пн 27 мая 2024 19:26:02] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=markdownlint) {}
+[INFO  Пн 27 мая 2024 19:26:02] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=marksman) {}
+[INFO  Пн 27 мая 2024 19:26:03] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:245: Installation succeeded for Package(name=shfmt)
+[INFO  Пн 27 мая 2024 19:26:03] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:245: Installation succeeded for Package(name=stylua)
+[INFO  Пн 27 мая 2024 19:26:06] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:245: Installation succeeded for Package(name=markdownlint)
+[INFO  Пн 27 мая 2024 19:26:30] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=lua-language-server) {}
+[INFO  Пн 27 мая 2024 19:26:30] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=ruff-lsp) {}
+[INFO  Пн 27 мая 2024 19:26:30] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=json-lsp) {}
+[INFO  Пн 27 мая 2024 19:26:31] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=clangd) {}
+[INFO  Пн 27 мая 2024 19:26:31] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:245: Installation succeeded for Package(name=lua-language-server)
+[INFO  Пн 27 мая 2024 19:26:34] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=pyright) {}
+[INFO  Пн 27 мая 2024 19:26:34] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:245: Installation succeeded for Package(name=ruff-lsp)
+[INFO  Пн 27 мая 2024 19:26:35] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=typescript-language-server) {}
+[INFO  Пн 27 мая 2024 19:26:35] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:245: Installation succeeded for Package(name=clangd)
+[INFO  Пн 27 мая 2024 19:26:35] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:245: Installation succeeded for Package(name=json-lsp)
+[INFO  Пн 27 мая 2024 19:26:36] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:245: Installation succeeded for Package(name=typescript-language-server)
+[INFO  Пн 27 мая 2024 19:26:37] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:245: Installation succeeded for Package(name=pyright)
+[ERROR Пн 27 мая 2024 19:26:44] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:249: Installation failed for Package(name=marksman) error="Installation was aborted."
+[INFO  Пн 27 мая 2024 19:26:53] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=marksman) {}
+[INFO  Пн 27 мая 2024 19:26:54] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:245: Installation succeeded for Package(name=marksman)
+[INFO  Пн 27 мая 2024 19:30:35] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=pyright) {}
+[INFO  Пн 27 мая 2024 19:30:35] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=ruff-lsp) {}
+[INFO  Пн 27 мая 2024 19:30:37] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:245: Installation succeeded for Package(name=pyright)
+[INFO  Пн 27 мая 2024 19:30:39] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:245: Installation succeeded for Package(name=ruff-lsp)
+[INFO  Пн 27 мая 2024 19:37:49] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=ruff-lsp) {}
+[INFO  Пн 27 мая 2024 19:37:49] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=pyright) {}
+[INFO  Пн 27 мая 2024 19:37:51] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:245: Installation succeeded for Package(name=pyright)
+[INFO  Пн 27 мая 2024 19:37:53] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:245: Installation succeeded for Package(name=ruff-lsp)
+[INFO  Пн 27 мая 2024 19:40:52] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=pyright) {}
+[INFO  Пн 27 мая 2024 19:40:52] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=ruff-lsp) {}
+[INFO  Пн 27 мая 2024 19:40:54] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:245: Installation succeeded for Package(name=pyright)
+[INFO  Пн 27 мая 2024 19:40:56] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:245: Installation succeeded for Package(name=ruff-lsp)
+[INFO  Пн 27 мая 2024 19:49:31] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=pyright) {}
+[INFO  Пн 27 мая 2024 19:49:33] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:245: Installation succeeded for Package(name=pyright)
+[INFO  Пн 27 мая 2024 20:22:25] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=python-lsp-server) {}
+[INFO  Пн 27 мая 2024 20:22:32] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:245: Installation succeeded for Package(name=python-lsp-server)
+[INFO  Пн 27 мая 2024 20:23:03] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=pyright) {}
+[INFO  Пн 27 мая 2024 20:23:03] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=ruff-lsp) {}
+[INFO  Пн 27 мая 2024 20:23:05] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:245: Installation succeeded for Package(name=pyright)
+[INFO  Пн 27 мая 2024 20:23:07] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:245: Installation succeeded for Package(name=ruff-lsp)
+[INFO  Вт 28 мая 2024 17:32:34] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=autopep8) {}
+[INFO  Вт 28 мая 2024 17:32:37] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:245: Installation succeeded for Package(name=autopep8)
+[INFO  Вт 28 мая 2024 17:34:12] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=flake8) {}
+[INFO  Вт 28 мая 2024 17:34:15] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:245: Installation succeeded for Package(name=flake8)
+[INFO  Вт 28 мая 2024 17:36:04] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=basedpyright) {}
+[INFO  Вт 28 мая 2024 17:36:09] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:245: Installation succeeded for Package(name=basedpyright)
+[INFO  Вт 28 мая 2024 17:38:43] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=ruff) {}
+[INFO  Вт 28 мая 2024 17:38:45] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=ruff-lsp) {}
+[INFO  Вт 28 мая 2024 17:38:46] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:245: Installation succeeded for Package(name=ruff)
+[INFO  Вт 28 мая 2024 17:38:48] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:245: Installation succeeded for Package(name=ruff-lsp)
+[INFO  Вт 28 мая 2024 17:41:54] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=python-lsp-server) {}
+[INFO  Вт 28 мая 2024 17:42:01] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:245: Installation succeeded for Package(name=python-lsp-server)
+[INFO  Чт 30 мая 2024 04:31:51] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=python-lsp-server) {}
+[INFO  Чт 30 мая 2024 04:31:58] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:245: Installation succeeded for Package(name=python-lsp-server)
+[INFO  Пт 31 мая 2024 20:18:13] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=pylint) {}
+[INFO  Пт 31 мая 2024 20:18:17] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:245: Installation succeeded for Package(name=pylint)
+[INFO  Пт 31 мая 2024 20:22:28] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:184: Executing installer for Package(name=pyright) {}
+[INFO  Пт 31 мая 2024 20:22:31] ...e/nvim/lazy/mason.nvim/lua/mason-core/installer/init.lua:245: Installation succeeded for Package(name=pyright)

@@ -1,0 +1,13 @@
+[INFO  Вс 26 мая 2024 20:40:45] ....nvim/lua/neo-tree/sources/filesystem/lib/fs_actions.lua:594: Renamed Test.md successfully
+[INFO  Вс 26 мая 2024 20:42:18] ...ree.nvim/lua/neo-tree/sources/filesystem/lib/fs_scan.lua:110: No items, skipping git ignored/status lookups
+[INFO  Вс 26 мая 2024 20:45:37] ...o-tree.nvim/lua/neo-tree/sources/filesystem/commands.lua:245: Toggling hidden files: true
+[INFO  Вс 26 мая 2024 20:56:11] ...o-tree.nvim/lua/neo-tree/sources/filesystem/commands.lua:245: Toggling hidden files: true
+[INFO  Вс 26 мая 2024 22:50:12] ...ree.nvim/lua/neo-tree/sources/filesystem/lib/fs_scan.lua:110: No items, skipping git ignored/status lookups
+[INFO  Вс 26 мая 2024 23:39:53] ....nvim/lua/neo-tree/sources/filesystem/lib/fs_actions.lua:594: Renamed quick-code-runner-nvim.lua successfully
+[INFO  Пн 27 мая 2024 20:15:28] ...o-tree.nvim/lua/neo-tree/sources/filesystem/commands.lua:245: Toggling hidden files: true
+[INFO  Пн 27 мая 2024 20:37:53] ...o-tree.nvim/lua/neo-tree/sources/filesystem/commands.lua:245: Toggling hidden files: true
+[INFO  Вт 28 мая 2024 19:14:46] ....nvim/lua/neo-tree/sources/filesystem/lib/fs_actions.lua:594: Renamed test2.py successfully
+[INFO  Ср 29 мая 2024 23:33:42] ....nvim/lua/neo-tree/sources/filesystem/lib/fs_actions.lua:594: Renamed конспект1.md successfully
+[INFO  Чт 30 мая 2024 02:38:42] ...o-tree.nvim/lua/neo-tree/sources/filesystem/commands.lua:245: Toggling hidden files: true
+[INFO  Чт 30 мая 2024 02:38:49] ...o-tree.nvim/lua/neo-tree/sources/filesystem/commands.lua:245: Toggling hidden files: false
+[INFO  Пт 31 мая 2024 19:38:42] ....nvim/lua/neo-tree/sources/filesystem/lib/fs_actions.lua:594: Renamed find_ch.py successfully

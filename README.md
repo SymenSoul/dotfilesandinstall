@@ -1,11 +1,19 @@
 # Installation and configuration guide for me
 ## Installing all packages or kinda
 
-`yay -Sy git lxappearance nemo zsh kitty tmux vim neovim picom pollybar nnn rofi btop copyq unclutter npm brave telegram-desktop neofetch`
+`yay -Sy git lxappearance nemo zsh kitty tmux vim neovim picom pollybar nnn rofi btop copyq unclutter npm brave telegram-desktop fastfetch dunst-git`
 
 ## Zsh default shell
 
 `chsh -s /usr/bin/zsh`
+
+## Intstall fonts
+
+3270-Medium Nerd Font Complete
+JetBrainsMonoNerdFont
+HackNerdFont
+lemon 10
+monospace 8
 
 ## Git config
 

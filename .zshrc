@@ -9,13 +9,16 @@ fi
 # If you come from bash you might have to change your $PATH.
 # export PATH=$HOME/bin:/usr/local/bin:$PATH
 
+# Path to ngrrram
+export PATH=/home/symins/code/ngrrram/target/release:$PATH
+alias ngrrram='ngrrram --cat'
 # Path to your oh-my-zsh installation.
 export ZSH="$HOME/.oh-my-zsh"
 
 # NNN
 export EDITOR=nvim
 export NNN_ARCHIVE="\\.(7z)"
-export NNN_PLUG='j:autojump;u:davecloud;c:fzcd;p:preview-tui;f:finder;o:fzopen;p:mocq;d:diffs;t:nmount;v:imgview' #;t:prev
+export NNN_PLUG='j:autojump;u:davecloud;c:fzcd;p:preview-tui;f:finder;o:fzopen;p:mocq;d:diffs;t:nmount;v:imgview;' #;t:prev
 #export NNN_FCOLORS='0000E6310000000000000000'
 set --export NNN_FIFO "/tmp/nnn.fifo"
 alias nnn='/bin/nnn -de' # -d for details and -e to open files in $VISUAL (for other options, see 'man nnn'...)
@@ -158,6 +161,7 @@ neofetch
 
 # alias configure
 alias cl="clear && neofetch"
+alias pychecker="source ~/scripts/start-flake8.sh"
 
 PATH="/home/symins/perl5/bin${PATH:+:${PATH}}"; export PATH;
 PERL5LIB="/home/symins/perl5/lib/perl5${PERL5LIB:+:${PERL5LIB}}"; export PERL5LIB;

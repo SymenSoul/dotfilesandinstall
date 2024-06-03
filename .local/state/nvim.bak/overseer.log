@@ -1,0 +1,2 @@
+[ERROR] Strategy 'orchestrator' failed to start for task '- hell interpreter': ...azy/overseer.nvim/lua/overseer/strategy/orchestrator.lua:191: bad argument #1 to 'ipairs' (table expected, got nil)
+[ERROR] Task - Run this file → /home/symins/dev/devpracticum/examples/My_projects/main.py dispatch on_output_summarize.on_output: ...seer.nvim/lua/overseer/component/on_output_summarize.lua:8: Invalid buffer id: 1196
