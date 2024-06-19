@@ -1,7 +1,7 @@
 # Installation and configuration guide for me
 ## Installing all packages or kinda
 
-`yay -Sy git lxappearance nemo zsh kitty tmux vim neovim picom pollybar nnn rofi btop copyq unclutter npm brave telegram-desktop fastfetch dunst-git`
+`yay -Sy git lxappearance nemo zsh kitty tmux vim neovim picom polybar nnn rofi btop copyq unclutter npm brave telegram-desktop fastfetch dunst-git feh`
 
 ## Zsh default shell
 
@@ -49,6 +49,9 @@ cd ~/code/nnn
 sudo make O_NERD=1
 sudo cp nnn /bin/
 ```
+
+Go into `~/.config/nnn/plugins/`
+And `sh -c "$(curl -Ls https://raw.githubusercontent.com/jarun/nnn/master/plugins/getplugs)"`
 ## tmux config
 
 `git clone https://github.com/tmux-plugins/tpm ~/.tmux/plugins/tpm`
