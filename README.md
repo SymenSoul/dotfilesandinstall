@@ -2,7 +2,7 @@
 
 ## Installing all packages or kinda
 
-`yay -Sy git lxappearance nemo zsh kitty tmux vim neovim picom polybar nnn rofi btop copyq unclutter npm brave-bin telegram-desktop fastfetch dunst-git feh lazygit-git p7zip timeshift flameshot hyprland-git waybar hyprpaper`
+`yay -Sy git lxappearance nemo zsh kitty tmux vim neovim picom polybar nnn rofi btop copyq unclutter npm telegram-desktop fastfetch dunst feh lazygit p7zip timeshift flameshot hyprland waybar hyprpaper cliphist`
 
 ## Zsh default shell
 

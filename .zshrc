@@ -18,30 +18,61 @@ export ZSH="$HOME/.oh-my-zsh"
 # NNN
 export EDITOR=nvim
 export NNN_ARCHIVE="\\.(7z)"
-export NNN_PLUG='j:autojump;u:davecloud;c:fzcd;p:preview-tui;f:finder;o:fzopen;p:mocq;d:diffs;t:nmount;v:imgview;' #;t:prev
-#export NNN_FCOLORS='0000E6310000000000000000'
-set --export NNN_FIFO "/tmp/nnn.fifo"
-alias nnn='/bin/nnn -de' # -d for details and -e to open files in $VISUAL (for other options, see 'man nnn'...)
-#-----
-export NNN_OPTS="H" # 'H' shows the hidden files. Same as option -H (so 'nnn -deH')
-# export NNN_OPTS="deH" # if you prefer to have all the options at the same place
-export LC_COLLATE="C" # hidden files on top
-export NNN_FIFO="/tmp/nnn.fifo" # temporary buffer for the previews
-export SPLIT='v' # to split Kitty vertically
-#-----
-n () # to cd on quit
+export NNN_PLUG='u:davecloud;c:fzcd;p:preview-tui;f:finder;o:fzopen;p:mocq;d:diffs;t:nmount;v:imgview;' #;t:prev
+export NNN_FIFO=/tmp/nnn.fifo
+export NNN_PREVIEWIMGPROG=icat
+alias icat="kitten icat"
+source $HOME/.local/zsh/quitcd.zsh
+source $HOME/.local/zsh/preview.zsh
+export NNN_TERMINAL='kitty'
+nnn-preview ()
 {
-    if [ -n $NNNLVL ] && [ "${NNNLVL:-0}" -ge 1 ]; then
+    # Block nesting of nnn in subshells
+    if [ -n "$NNNLVL" ] && [ "${NNNLVL:-0}" -ge 1 ]; then
         echo "nnn is already running"
         return
     fi
+
+    # The default behaviour is to cd on quit (nnn checks if NNN_TMPFILE is set)
+    # If NNN_TMPFILE is set to a custom path, it must be exported for nnn to see.
+    # To cd on quit only on ^G, remove the "export" and set NNN_TMPFILE *exactly* as this:
+    #     NNN_TMPFILE="${XDG_CONFIG_HOME:-$HOME/.config}/nnn/.lastd"
     export NNN_TMPFILE="${XDG_CONFIG_HOME:-$HOME/.config}/nnn/.lastd"
-    nnn "$@"
-    if [ -f "$NNN_TMPFILE" ]; then
-            . "$NNN_TMPFILE"
-            rm -f "$NNN_TMPFILE" > /dev/null
+
+    # This will create a fifo where all nnn selections will be written to
+    NNN_FIFO="$(mktemp --suffix=-nnn -u)"
+    export NNN_FIFO
+    (umask 077; mkfifo "$NNN_FIFO")
+
+    # Preview command
+    preview_cmd="/path/to/preview_cmd.sh"
+
+    # Use `tmux` split as preview
+    if [ -e "${TMUX%%,*}" ]; then
+        tmux split-window -e "NNN_FIFO=$NNN_FIFO" -dh "$preview_cmd"
+
+    # Use `xterm` as a preview window
+    elif (which xterm &> /dev/null); then
+        xterm -e "$preview_cmd" &
+
+    # Unable to find a program to use as a preview window
+    else
+        echo "unable to open preview, please install tmux or xterm"
     fi
+
+    nnn "$@" -Pp
+
+    rm -f "$NNN_FIFO"
 }
+#export NNN_FCOLORS='0000E6310000000000000000'
+# set --export NNN_FIFO "/tmp/nnn.fifo"
+alias nnn='/bin/nnn -de' # -d for details and -e to open files in $VISUAL (for other options, see 'man nnn'...)
+# #-----
+export NNN_OPTS="H" # 'H' shows the hidden files. Same as option -H (so 'nnn -deH')
+# # export NNN_OPTS="deH" # if you prefer to have all the options at the same place
+export LC_COLLATE="C" # hidden files on top
+# export NNN_FIFO="/tmp/nnn.fifo" # temporary buffer for the previews
+export SPLIT='v' # to split Kitty vertically
 
 # Set name of the theme to load --- if set to "random", it will
 # load a random theme each time oh-my-zsh is loaded, in which case,
@@ -120,7 +151,6 @@ plugins=(git
          zsh-autosuggestions 
          fast-syntax-highlighting 
          vi-mode 
-         autojump 
          #vim-interaction
          #zsh-navigation-tools
          )
@@ -157,11 +187,12 @@ typeset -g POWERLEVEL10K_INSTANT_PROMPT=off
 [[ ! -f ~/.p10k.zsh ]] || source ~/.p10k.zsh
 
 # Commands after start 
-neofetch
+fastfetch
 
 # alias configure
-alias cl="clear && neofetch"
+alias cl="clear && fastfetch"
 alias pychecker="source ~/scripts/start-flake8.sh"
+alias venv="source ~/scripts/venv.sh"
 
 PATH="/home/symins/perl5/bin${PATH:+:${PATH}}"; export PATH;
 PERL5LIB="/home/symins/perl5/lib/perl5${PERL5LIB:+:${PERL5LIB}}"; export PERL5LIB;
