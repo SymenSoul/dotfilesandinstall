@@ -1,6 +1,6 @@
 set -g fish_greeting
 
-if status is-interactive
+if status is-interactive	
     starship init fish | source
 end
 # List Directory

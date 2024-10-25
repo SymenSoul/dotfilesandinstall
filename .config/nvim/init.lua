@@ -1,2 +1,4 @@
--- bootstrap lazy.nvim, LazyVim and your plugins
 require("config.lazy")
+vim.wo.relativenumber = true
+vim.wo.number = true
+vim.opt.clipboard = "unnamedplus"
