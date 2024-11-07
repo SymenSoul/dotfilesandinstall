@@ -64,7 +64,7 @@ yay -Syu nemo && xdg-mime default nemo.desktop inode/directory application/x-gno
 ## Install Telegram, Steam, Discord and other
 
 ```
-yay -Syu telegram-desktop steam vesktop-bin btop
+yay -Syu telegram-desktop steam vesktop-bin btop flatpak timeshift
 ```
 
 ## Install Amnezia
