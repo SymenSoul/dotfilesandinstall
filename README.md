@@ -45,6 +45,12 @@ ssh-keygen -t ed25519 -C "your_email@example.com"
 
 [Preconfig of Hyprland](https://github.com/prasanthrangan/hyprdots)
 
+### Install nvidia-open-dkms
+
+```
+yay -Syu nvidia-open-dkms
+```
+
 Reboot in hyprland.
 
 ## Copy all dotfiles
