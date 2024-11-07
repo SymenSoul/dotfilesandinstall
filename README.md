@@ -21,11 +21,14 @@ git config user.email "your_email@abc.example"
 ### Yay & git
 
 ```
-sudo pacman -S --needed git base-devel && git clone https://aur.archlinux.org/yay.git && cd yay && makepkg -si```
+sudo pacman -S --needed git base-devel && git clone https://aur.archlinux.org/yay.git && cd yay && makepkg -si
+```
 
 ### Neovim, lazygit
 
+```
 yay -Syu neovim lazygit
+```
 
 ## Create ssh key and paste it where you need.
 
