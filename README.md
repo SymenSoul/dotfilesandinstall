@@ -2,7 +2,15 @@
 
 ## First of all, do all job with firefox. (about:config, LastTab, accounts)
 
-## Git config
+## Install yay, nvim, git, lazygit
+
+### Yay & git
+
+```
+sudo pacman -S --needed git base-devel && git clone https://aur.archlinux.org/yay.git && cd yay && makepkg -si
+```
+
+### Git config
 
 Enter your name.
 
@@ -16,13 +24,6 @@ And email.
 git config user.email "your_email@abc.example"
 ```
 
-## Install yay, nvim, git, lazygit
-
-### Yay & git
-
-```
-sudo pacman -S --needed git base-devel && git clone https://aur.archlinux.org/yay.git && cd yay && makepkg -si
-```
 
 ### Neovim, lazygit
 
