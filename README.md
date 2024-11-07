@@ -61,10 +61,10 @@ yay -Syu nemo && xdg-mime default nemo.desktop inode/directory application/x-gno
 
 ## Copy all dotfiles
 
-## Install Telegram, Steam, Discord
+## Install Telegram, Steam, Discord and other
 
 ```
-yay -Syu telegram-desktop steam vesktop-bin
+yay -Syu telegram-desktop steam vesktop-bin btop
 ```
 
 ## Install Amnezia
