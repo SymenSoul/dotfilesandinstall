@@ -1,9 +1,8 @@
 return {
-  'nativerv/cyrillic.nvim',
-  event = { 'VeryLazy' },
+  'Wansmer/langmapper.nvim',
+  lazy = false,
+  priority = 1, -- High priority is needed if you will use `autoremap()`
   config = function()
-    require('cyrillic').setup({
-      no_cyrillic_abbrev = false, -- default
-    })
+    require('langmapper').setup({--[[ your config ]]})
   end,
 }

@@ -53,6 +53,12 @@ yay -Syu nvidia-open-dkms
 
 Reboot in hyprland.
 
+## Install nemo
+
+```
+yay -Syu nemo && xdg-mime default nemo.desktop inode/directory application/x-gnome-saved-search
+```
+
 ## Copy all dotfiles
 
 ## Install Telegram, Steam, Discord
