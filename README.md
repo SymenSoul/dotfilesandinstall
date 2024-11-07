@@ -57,7 +57,13 @@ Reboot in hyprland.
 
 ## Install Telegram, Steam, Discord
 
+```
 yay -Syu telegram-desktop steam vesktop-bin
+```
+
+## Install Amnezia
+
+[Amnezia](https://github.com/amnezia-vpn/amnezia-client?tab=readme-ov-file)
 
 ## Enjoy!!!
 
