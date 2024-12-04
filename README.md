@@ -21,7 +21,7 @@ git config --global user.name "Your Name"
 And email.
 
 ```
-git config user.email "your_email@abc.example"
+git config --global user.email "your_email@abc.example"
 ```
 
 
@@ -44,12 +44,6 @@ ssh-keygen -t ed25519 -C "your_email@example.com"
 ## Go to this github and install hyprland with all configured applications
 
 [Preconfig of Hyprland](https://github.com/prasanthrangan/hyprdots)
-
-### Install nvidia-open-dkms
-
-```
-yay -Syu nvidia-open-dkms
-```
 
 Reboot in hyprland.
 
