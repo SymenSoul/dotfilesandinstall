@@ -47,11 +47,11 @@ keymap = [
 	{ on = "J", run = "seek 5",  desc = "Seek down 5 units in the preview" },
 
 	# Selection
-	{ on = "<Space>", run = [ "select --state=none", "arrow 1" ], desc = "Toggle the current selection state" },
+	{ on = "<Space>", run = [ "toggle", "arrow 1" ], desc = "Toggle the current selection state" },
 	{ on = "v",       run = "visual_mode",                        desc = "Enter visual mode (selection mode)" },
 	{ on = "V",       run = "visual_mode --unset",                desc = "Enter visual mode (unset mode)" },
-	{ on = "<C-a>",   run = "select_all --state=true",            desc = "Select all files" },
-	{ on = "<C-r>",   run = "select_all --state=none",            desc = "Inverse selection of all files" },
+	{ on = "<C-a>",   run = "toggle_all --state=true",            desc = "Select all files" },
+	{ on = "<C-r>",   run = "toggle_all",            desc = "Inverse selection of all files" },
 
 	# Operation
 	{ on = "o",         run = "open",                        desc = "Open selected files" },
@@ -323,10 +323,9 @@ keymap = [
 	{ on = "f", run = "filter", desc = "Apply a filter for the help items" },
 ]
 
-[[manager.prepend_keymap]] # Smart enter.
-
+[[manager.prepend_keymap]] # Smart enter
 on   = "l"
-run  = "plugin --sync smart-enter"
+run  = "plugin smart-enter"
 desc = "Enter the child directory, or open the file"
 
 [[manager.prepend_keymap]] # Shell open.
@@ -335,7 +334,7 @@ on   = "<q>"
 run  = 'shell "$SHELL" --block --confirm'
 desc = "Open shell here"
 
-[[manager.prepend_keymap]]
+[[manager.prepend_keymap]] # Bookmarks
 on = [ "m" ]
 run = "plugin bookmarks --args=save"
 desc = "Save current position as a bookmark"
@@ -354,3 +353,48 @@ desc = "Delete a bookmark"
 on = [ "b", "D" ]
 run = "plugin bookmarks --args=delete_all"
 desc = "Delete all bookmarks"
+
+[[manager.prepend_keymap]] # Relative motions
+on = [ "1" ]
+run = "plugin relative-motions --args=1"
+desc = "Move in relative steps"
+
+[[manager.prepend_keymap]]
+on = [ "2" ]
+run = "plugin relative-motions --args=2"
+desc = "Move in relative steps"
+
+[[manager.prepend_keymap]]
+on = [ "3" ]
+run = "plugin relative-motions --args=3"
+desc = "Move in relative steps"
+
+[[manager.prepend_keymap]]
+on = [ "4" ]
+run = "plugin relative-motions --args=4"
+desc = "Move in relative steps"
+
+[[manager.prepend_keymap]]
+on = [ "5" ]
+run = "plugin relative-motions --args=5"
+desc = "Move in relative steps"
+
+[[manager.prepend_keymap]]
+on = [ "6" ]
+run = "plugin relative-motions --args=6"
+desc = "Move in relative steps"
+
+[[manager.prepend_keymap]]
+on = [ "7" ]
+run = "plugin relative-motions --args=7"
+desc = "Move in relative steps"
+
+[[manager.prepend_keymap]]
+on = [ "8" ]
+run = "plugin relative-motions --args=8"
+desc = "Move in relative steps"
+
+[[manager.prepend_keymap]]
+on = [ "9" ]
+run = "plugin relative-motions --args=9"
+desc = "Move in relative steps"
