@@ -1,7 +1,7 @@
     "clock": {
-        "format": "{:%R 󰃭 %d·%m·%y}",
+        "format": "{:%I:%M %p}",
         "rotate": ${r_deg},
-        "format-alt": "{:%I:%M %p}",
+        "format-alt": "{:%R 󰃭 %d·%m·%y}",
         "tooltip-format": "<span>{calendar}</span>",
         "calendar": {
             "mode": "month",
