@@ -43,7 +43,7 @@ ssh-keygen -t ed25519 -C "your_email@example.com"
 
 ## Go to this github and install hyprland with all configured applications
 
-[Preconfig of Hyprland](https://github.com/prasanthrangan/hyprdots)
+[Preconfig of Hyprland](https://github.com/Hyde-project/hyde)
 
 Reboot in hyprland.
 
